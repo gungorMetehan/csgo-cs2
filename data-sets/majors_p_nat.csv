@@ -1,881 +1,882 @@
-year;month_finished;tournament;country;quarter;semi;final;won
-2013;November;DreamHack Winter;Ukraine;2;0;0;0
-2014;March;EMS One Katowice;Ukraine;2;0;0;0
-2014;August;ESL One Cologne;Ukraine;3;0;0;0
-2014;November;DreamHack Winter;Ukraine;6;3;0;0
-2015;March;ESL One Katowice;Ukraine;3;0;0;0
-2015;August;ESL One Cologne;Ukraine;2;0;0;0
-2015;November;DreamHack Open Cluj-Napoca;Ukraine;2;2;2;0
-2016;April;MLG Columbus;Ukraine;3;3;2;0
-2016;July;ESL One Cologne;Ukraine;6;1;1;0
-2017;January;ELEAGUE Major;Ukraine;3;0;0;0
-2017;July;PGL Major Krakow;Ukraine;1;1;1;1
-2018;January;ELEAGUE Major;Ukraine;3;3;0;0
-2018;September;FACEIT Major;Ukraine;5;3;3;0
-2019;March;IEM Katowice;Ukraine;3;3;0;0
-2019;September;StarLadder Major Berlin;Ukraine;2;0;0;0
-2021;November;PGL Major Stockholm;Ukraine;2;2;2;2
-2022;May;PGL Major Antwerp;Ukraine;2;2;2;0
-2022;November;IEM Rio Major;Ukraine;4;0;0;0
-2023;May;BLAST.tv Paris Major;Ukraine;4;0;0;0
-2024;March;PGL CS2 Major Copenhagen;Ukraine;3;2;2;2
-2024;December;Perfect World Shanghai Major;Ukraine;1;1;1;1
-2025;June;BLAST.tv Austin Major;Ukraine;4;0;0;0
-2013;November;DreamHack Winter;Sweden;15;10;10;5
-2014;March;EMS One Katowice;Sweden;15;10;5;0
-2014;August;ESL One Cologne;Sweden;10;10;10;5
-2014;November;DreamHack Winter;Sweden;10;5;5;0
-2015;March;ESL One Katowice;Sweden;9;9;9;5
-2015;August;ESL One Cologne;Sweden;11;5;5;5
-2015;November;DreamHack Open Cluj-Napoca;Sweden;11;6;0;0
-2016;April;MLG Columbus;Sweden;10;0;0;0
-2016;July;ESL One Cologne;Sweden;5;5;0;0
-2017;January;ELEAGUE Major;Sweden;5;5;0;0
-2017;July;PGL Major Krakow;Sweden;5;0;0;0
-2018;January;ELEAGUE Major;Sweden;6;1;1;0
-2018;September;FACEIT Major;Sweden;1;0;0;0
-2019;March;IEM Katowice;Sweden;6;0;0;0
-2019;September;StarLadder Major Berlin;Sweden;0;0;0;0
-2021;November;PGL Major Stockholm;Sweden;4;0;0;0
-2022;May;PGL Major Antwerp;Sweden;4;0;0;0
-2022;November;IEM Rio Major;Sweden;1;0;0;0
-2023;May;BLAST.tv Paris Major;Sweden;2;2;1;0
-2024;March;PGL CS2 Major Copenhagen;Sweden;1;0;0;0
-2024;December;Perfect World Shanghai Major;Sweden;1;1;0;0
-2025;June;BLAST.tv Austin Major;Sweden;1;1;0;0
-2013;November;DreamHack Winter;Russia;2;0;0;0
-2014;March;EMS One Katowice;Russia;2;0;0;0
-2014;August;ESL One Cologne;Russia;1;0;0;0
-2014;November;DreamHack Winter;Russia;3;1;0;0
-2015;March;ESL One Katowice;Russia;1;0;0;0
-2015;August;ESL One Cologne;Russia;2;0;0;0
-2015;November;DreamHack Open Cluj-Napoca;Russia;2;2;2;0
-2016;April;MLG Columbus;Russia;2;2;2;0
-2016;July;ESL One Cologne;Russia;7;0;0;0
-2017;January;ELEAGUE Major;Russia;3;0;0;0
-2017;July;PGL Major Krakow;Russia;1;1;1;1
-2018;January;ELEAGUE Major;Russia;6;2;0;0
-2018;September;FACEIT Major;Russia;2;2;2;0
-2019;March;IEM Katowice;Russia;2;2;0;0
-2019;September;StarLadder Major Berlin;Russia;4;1;1;0
-2021;November;PGL Major Stockholm;Russia;9;7;3;3
-2022;May;PGL Major Antwerp;Russia;8;8;3;0
-2022;November;IEM Rio Major;Russia;14;4;4;4
-2023;May;BLAST.tv Paris Major;Russia;0;0;0;0
-2024;March;PGL CS2 Major Copenhagen;Russia;9;1;0;0
-2024;December;Perfect World Shanghai Major;Russia;6;5;4;4
-2025;June;BLAST.tv Austin Major;Russia;4;0;0;0
-2013;November;DreamHack Winter;Denmark;5;0;0;0
-2014;March;EMS One Katowice;Denmark;5;5;0;0
-2014;August;ESL One Cologne;Denmark;5;5;0;0
-2014;November;DreamHack Winter;Denmark;5;0;0;0
-2015;March;ESL One Katowice;Denmark;5;0;0;0
-2015;August;ESL One Cologne;Denmark;5;5;0;0
-2015;November;DreamHack Open Cluj-Napoca;Denmark;5;0;0;0
-2016;April;MLG Columbus;Denmark;5;5;0;0
-2016;July;ESL One Cologne;Denmark;5;0;0;0
-2017;January;ELEAGUE Major;Denmark;11;5;5;5
-2017;July;PGL Major Krakow;Denmark;10;5;0;0
-2018;January;ELEAGUE Major;Denmark;1;1;1;0
-2018;September;FACEIT Major;Denmark;6;5;5;5
-2019;March;IEM Katowice;Denmark;5;5;5;5
-2019;September;StarLadder Major Berlin;Denmark;5;5;5;5
-2021;November;PGL Major Stockholm;Denmark;6;5;0;0
-2022;May;PGL Major Antwerp;Denmark;13;2;1;1
-2022;November;IEM Rio Major;Denmark;7;5;5;0
-2023;May;BLAST.tv Paris Major;Denmark;9;8;3;2
-2024;March;PGL CS2 Major Copenhagen;Denmark;2;2;1;0
-2024;December;Perfect World Shanghai Major;Denmark;3;1;1;0
-2025;June;BLAST.tv Austin Major;Denmark;1;0;0;0
-2013;November;DreamHack Winter;Brazil;0;0;0;0
-2014;March;EMS One Katowice;Brazil;0;0;0;0
-2014;August;ESL One Cologne;Brazil;0;0;0;0
-2014;November;DreamHack Winter;Brazil;0;0;0;0
-2015;March;ESL One Katowice;Brazil;5;0;0;0
-2015;August;ESL One Cologne;Brazil;5;0;0;0
-2015;November;DreamHack Open Cluj-Napoca;Brazil;5;0;0;0
-2016;April;MLG Columbus;Brazil;5;5;5;5
-2016;July;ESL One Cologne;Brazil;5;5;5;5
-2017;January;ELEAGUE Major;Brazil;4;4;0;0
-2017;July;PGL Major Krakow;Brazil;10;5;5;0
-2018;January;ELEAGUE Major;Brazil;5;5;0;0
-2018;September;FACEIT Major;Brazil;4;4;0;0
-2019;March;IEM Katowice;Brazil;5;5;0;0
-2019;September;StarLadder Major Berlin;Brazil;0;0;0;0
-2021;November;PGL Major Stockholm;Brazil;5;0;0;0
-2022;May;PGL Major Antwerp;Brazil;5;0;0;0
-2022;November;IEM Rio Major;Brazil;5;5;0;0
-2023;May;BLAST.tv Paris Major;Brazil;0;0;0;0
-2024;March;PGL CS2 Major Copenhagen;Brazil;0;0;0;0
-2024;December;Perfect World Shanghai Major;Brazil;0;0;0;0
-2025;June;BLAST.tv Austin Major;Brazil;6;3;0;0
-2013;November;DreamHack Winter;France;7;3;0;0
-2014;March;EMS One Katowice;France;4;0;0;0
-2014;August;ESL One Cologne;France;9;5;0;0
-2014;November;DreamHack Winter;France;5;5;5;5
-2015;March;ESL One Katowice;France;5;5;0;0
-2015;August;ESL One Cologne;France;5;5;5;0
-2015;November;DreamHack Open Cluj-Napoca;France;5;5;5;5
-2016;April;MLG Columbus;France;0;0;0;0
-2016;July;ESL One Cologne;France;0;0;0;0
-2017;January;ELEAGUE Major;France;1;0;0;0
-2017;July;PGL Major Krakow;France;0;0;0;0
-2018;January;ELEAGUE Major;France;5;0;0;0
-2018;September;FACEIT Major;France;0;0;0;0
-2019;March;IEM Katowice;France;0;0;0;0
-2019;September;StarLadder Major Berlin;France;4;0;0;0
-2021;November;PGL Major Stockholm;France;7;2;2;0
-2022;May;PGL Major Antwerp;France;0;0;0;0
-2022;November;IEM Rio Major;France;0;0;0;0
-2023;May;BLAST.tv Paris Major;France;2;2;2;2
-2024;March;PGL CS2 Major Copenhagen;France;2;2;0;0
-2024;December;Perfect World Shanghai Major;France;2;0;0;0
-2025;June;BLAST.tv Austin Major;France;2;2;2;2
-2013;November;DreamHack Winter;Poland;0;0;0;0
-2014;March;EMS One Katowice;Poland;5;5;5;5
-2014;August;ESL One Cologne;Poland;5;0;0;0
-2014;November;DreamHack Winter;Poland;5;5;0;0
-2015;March;ESL One Katowice;Poland;5;5;0;0
-2015;August;ESL One Cologne;Poland;5;5;0;0
-2015;November;DreamHack Open Cluj-Napoca;Poland;5;0;0;0
-2016;April;MLG Columbus;Poland;5;0;0;0
-2016;July;ESL One Cologne;Poland;5;5;0;0
-2017;January;ELEAGUE Major;Poland;5;5;5;0
-2017;July;PGL Major Krakow;Poland;5;5;0;0
-2018;January;ELEAGUE Major;Poland;0;0;0;0
-2018;September;FACEIT Major;Poland;0;0;0;0
-2019;March;IEM Katowice;Poland;0;0;0;0
-2019;September;StarLadder Major Berlin;Poland;0;0;0;0
-2021;November;PGL Major Stockholm;Poland;0;0;0;0
-2022;May;PGL Major Antwerp;Poland;2;2;0;0
-2022;November;IEM Rio Major;Poland;0;0;0;0
-2023;May;BLAST.tv Paris Major;Poland;2;1;1;0
-2024;March;PGL CS2 Major Copenhagen;Poland;1;0;0;0
-2024;December;Perfect World Shanghai Major;Poland;3;2;0;0
-2025;June;BLAST.tv Austin Major;Poland;0;0;0;0
-2013;November;DreamHack Winter;Slovakia;0;0;0;0
-2014;March;EMS One Katowice;Slovakia;0;0;0;0
-2014;August;ESL One Cologne;Slovakia;1;0;0;0
-2014;November;DreamHack Winter;Slovakia;1;1;0;0
-2015;March;ESL One Katowice;Slovakia;1;0;0;0
-2015;August;ESL One Cologne;Slovakia;1;0;0;0
-2015;November;DreamHack Open Cluj-Napoca;Slovakia;1;1;1;0
-2016;April;MLG Columbus;Slovakia;1;1;1;0
-2016;July;ESL One Cologne;Slovakia;1;0;0;0
-2017;January;ELEAGUE Major;Slovakia;1;0;0;0
-2017;July;PGL Major Krakow;Slovakia;0;0;0;0
-2018;January;ELEAGUE Major;Slovakia;2;1;1;0
-2018;September;FACEIT Major;Slovakia;1;0;0;0
-2019;March;IEM Katowice;Slovakia;1;0;0;0
-2019;September;StarLadder Major Berlin;Slovakia;0;0;0;0
-2021;November;PGL Major Stockholm;Slovakia;0;0;0;0
-2022;May;PGL Major Antwerp;Slovakia;0;0;0;0
-2022;November;IEM Rio Major;Slovakia;1;1;0;0
-2023;May;BLAST.tv Paris Major;Slovakia;1;1;0;0
-2024;March;PGL CS2 Major Copenhagen;Slovakia;1;1;1;0
-2024;December;Perfect World Shanghai Major;Slovakia;1;1;1;0
-2025;June;BLAST.tv Austin Major;Slovakia;1;0;0;0
-2013;November;DreamHack Winter;Turkiye;0;0;0;0
-2014;March;EMS One Katowice;Turkiye;0;0;0;0
-2014;August;ESL One Cologne;Turkiye;0;0;0;0
-2014;November;DreamHack Winter;Turkiye;0;0;0;0
-2015;March;ESL One Katowice;Turkiye;0;0;0;0
-2015;August;ESL One Cologne;Turkiye;0;0;0;0
-2015;November;DreamHack Open Cluj-Napoca;Turkiye;0;0;0;0
-2016;April;MLG Columbus;Turkiye;0;0;0;0
-2016;July;ESL One Cologne;Turkiye;0;0;0;0
-2017;January;ELEAGUE Major;Turkiye;0;0;0;0
-2017;July;PGL Major Krakow;Turkiye;0;0;0;0
-2018;January;ELEAGUE Major;Turkiye;0;0;0;0
-2018;September;FACEIT Major;Turkiye;1;0;0;0
-2019;March;IEM Katowice;Turkiye;0;0;0;0
-2019;September;StarLadder Major Berlin;Turkiye;0;0;0;0
-2021;November;PGL Major Stockholm;Turkiye;0;0;0;0
-2022;May;PGL Major Antwerp;Turkiye;0;0;0;0
-2022;November;IEM Rio Major;Turkiye;0;0;0;0
-2023;May;BLAST.tv Paris Major;Turkiye;0;0;0;0
-2024;March;PGL CS2 Major Copenhagen;Turkiye;5;0;0;0
-2024;December;Perfect World Shanghai Major;Turkiye;0;0;0;0
-2025;June;BLAST.tv Austin Major;Turkiye;0;0;0;0
-2013;November;DreamHack Winter;Norway;0;0;0;0
-2014;March;EMS One Katowice;Norway;0;0;0;0
-2014;August;ESL One Cologne;Norway;0;0;0;0
-2014;November;DreamHack Winter;Norway;0;0;0;0
-2015;March;ESL One Katowice;Norway;0;0;0;0
-2015;August;ESL One Cologne;Norway;1;0;0;0
-2015;November;DreamHack Open Cluj-Napoca;Norway;2;2;0;0
-2016;April;MLG Columbus;Norway;0;0;0;0
-2016;July;ESL One Cologne;Norway;0;0;0;0
-2017;January;ELEAGUE Major;Norway;2;0;0;0
-2017;July;PGL Major Krakow;Norway;0;0;0;0
-2018;January;ELEAGUE Major;Norway;1;1;1;0
-2018;September;FACEIT Major;Norway;1;0;0;0
-2019;March;IEM Katowice;Norway;2;0;0;0
-2019;September;StarLadder Major Berlin;Norway;1;1;0;0
-2021;November;PGL Major Stockholm;Norway;0;0;0;0
-2022;May;PGL Major Antwerp;Norway;1;1;1;1
-2022;November;IEM Rio Major;Norway;0;0;0;0
-2023;May;BLAST.tv Paris Major;Norway;2;1;0;0
-2024;March;PGL CS2 Major Copenhagen;Norway;1;1;1;0
-2024;December;Perfect World Shanghai Major;Norway;1;1;1;0
-2025;June;BLAST.tv Austin Major;Norway;1;0;0;0
-2013;November;DreamHack Winter;Uruguay;0;0;0;0
-2014;March;EMS One Katowice;Uruguay;0;0;0;0
-2014;August;ESL One Cologne;Uruguay;0;0;0;0
-2014;November;DreamHack Winter;Uruguay;0;0;0;0
-2015;March;ESL One Katowice;Uruguay;0;0;0;0
-2015;August;ESL One Cologne;Uruguay;0;0;0;0
-2015;November;DreamHack Open Cluj-Napoca;Uruguay;0;0;0;0
-2016;April;MLG Columbus;Uruguay;0;0;0;0
-2016;July;ESL One Cologne;Uruguay;0;0;0;0
-2017;January;ELEAGUE Major;Uruguay;0;0;0;0
-2017;July;PGL Major Krakow;Uruguay;0;0;0;0
-2018;January;ELEAGUE Major;Uruguay;0;0;0;0
-2018;September;FACEIT Major;Uruguay;0;0;0;0
-2019;March;IEM Katowice;Uruguay;0;0;0;0
-2019;September;StarLadder Major Berlin;Uruguay;0;0;0;0
-2021;November;PGL Major Stockholm;Uruguay;0;0;0;0
-2022;May;PGL Major Antwerp;Uruguay;0;0;0;0
-2022;November;IEM Rio Major;Uruguay;0;0;0;0
-2023;May;BLAST.tv Paris Major;Uruguay;0;0;0;0
-2024;March;PGL CS2 Major Copenhagen;Uruguay;0;0;0;0
-2024;December;Perfect World Shanghai Major;Uruguay;0;0;0;0
-2025;June;BLAST.tv Austin Major;Uruguay;1;1;0;0
-2013;November;DreamHack Winter;Mongolia;0;0;0;0
-2014;March;EMS One Katowice;Mongolia;0;0;0;0
-2014;August;ESL One Cologne;Mongolia;0;0;0;0
-2014;November;DreamHack Winter;Mongolia;0;0;0;0
-2015;March;ESL One Katowice;Mongolia;0;0;0;0
-2015;August;ESL One Cologne;Mongolia;0;0;0;0
-2015;November;DreamHack Open Cluj-Napoca;Mongolia;0;0;0;0
-2016;April;MLG Columbus;Mongolia;0;0;0;0
-2016;July;ESL One Cologne;Mongolia;0;0;0;0
-2017;January;ELEAGUE Major;Mongolia;0;0;0;0
-2017;July;PGL Major Krakow;Mongolia;0;0;0;0
-2018;January;ELEAGUE Major;Mongolia;0;0;0;0
-2018;September;FACEIT Major;Mongolia;0;0;0;0
-2019;March;IEM Katowice;Mongolia;0;0;0;0
-2019;September;StarLadder Major Berlin;Mongolia;0;0;0;0
-2021;November;PGL Major Stockholm;Mongolia;0;0;0;0
-2022;May;PGL Major Antwerp;Mongolia;0;0;0;0
-2022;November;IEM Rio Major;Mongolia;0;0;0;0
-2023;May;BLAST.tv Paris Major;Mongolia;0;0;0;0
-2024;March;PGL CS2 Major Copenhagen;Mongolia;0;0;0;0
-2024;December;Perfect World Shanghai Major;Mongolia;5;0;0;0
-2025;June;BLAST.tv Austin Major;Mongolia;5;5;5;0
-2013;November;DreamHack Winter;United States;4;4;0;0
-2014;March;EMS One Katowice;United States;4;0;0;0
-2014;August;ESL One Cologne;United States;3;0;0;0
-2014;November;DreamHack Winter;United States;0;0;0;0
-2015;March;ESL One Katowice;United States;0;0;0;0
-2015;August;ESL One Cologne;United States;0;0;0;0
-2015;November;DreamHack Open Cluj-Napoca;United States;0;0;0;0
-2016;April;MLG Columbus;United States;9;4;0;0
-2016;July;ESL One Cologne;United States;4;4;4;0
-2017;January;ELEAGUE Major;United States;0;0;0;0
-2017;July;PGL Major Krakow;United States;0;0;0;0
-2018;January;ELEAGUE Major;United States;5;5;5;5
-2018;September;FACEIT Major;United States;6;4;0;0
-2019;March;IEM Katowice;United States;3;0;0;0
-2019;September;StarLadder Major Berlin;United States;6;3;0;0
-2021;November;PGL Major Stockholm;United States;0;0;0;0
-2022;May;PGL Major Antwerp;United States;0;0;0;0
-2022;November;IEM Rio Major;United States;0;0;0;0
-2023;May;BLAST.tv Paris Major;United States;3;0;0;0
-2024;March;PGL CS2 Major Copenhagen;United States;0;0;0;0
-2024;December;Perfect World Shanghai Major;United States;0;0;0;0
-2025;June;BLAST.tv Austin Major;United States;1;0;0;0
-2013;November;DreamHack Winter;Finland;0;0;0;0
-2014;March;EMS One Katowice;Finland;0;0;0;0
-2014;August;ESL One Cologne;Finland;0;0;0;0
-2014;November;DreamHack Winter;Finland;0;0;0;0
-2015;March;ESL One Katowice;Finland;1;1;1;0
-2015;August;ESL One Cologne;Finland;1;0;0;0
-2015;November;DreamHack Open Cluj-Napoca;Finland;1;1;0;0
-2016;April;MLG Columbus;Finland;0;0;0;0
-2016;July;ESL One Cologne;Finland;0;0;0;0
-2017;January;ELEAGUE Major;Finland;1;0;0;0
-2017;July;PGL Major Krakow;Finland;0;0;0;0
-2018;January;ELEAGUE Major;Finland;1;0;0;0
-2018;September;FACEIT Major;Finland;0;0;0;0
-2019;March;IEM Katowice;Finland;5;5;5;0
-2019;September;StarLadder Major Berlin;Finland;5;0;0;0
-2021;November;PGL Major Stockholm;Finland;0;0;0;0
-2022;May;PGL Major Antwerp;Finland;0;0;0;0
-2022;November;IEM Rio Major;Finland;0;0;0;0
-2023;May;BLAST.tv Paris Major;Finland;0;0;0;0
-2024;March;PGL CS2 Major Copenhagen;Finland;2;1;1;1
-2024;December;Perfect World Shanghai Major;Finland;1;1;0;0
-2025;June;BLAST.tv Austin Major;Finland;2;1;0;0
-2013;November;DreamHack Winter;Kazakhstan;1;0;0;0
-2014;March;EMS One Katowice;Kazakhstan;1;0;0;0
-2014;August;ESL One Cologne;Kazakhstan;0;0;0;0
-2014;November;DreamHack Winter;Kazakhstan;0;0;0;0
-2015;March;ESL One Katowice;Kazakhstan;0;0;0;0
-2015;August;ESL One Cologne;Kazakhstan;0;0;0;0
-2015;November;DreamHack Open Cluj-Napoca;Kazakhstan;0;0;0;0
-2016;April;MLG Columbus;Kazakhstan;0;0;0;0
-2016;July;ESL One Cologne;Kazakhstan;2;0;0;0
-2017;January;ELEAGUE Major;Kazakhstan;3;0;0;0
-2017;July;PGL Major Krakow;Kazakhstan;3;3;3;3
-2018;January;ELEAGUE Major;Kazakhstan;0;0;0;0
-2018;September;FACEIT Major;Kazakhstan;0;0;0;0
-2019;March;IEM Katowice;Kazakhstan;1;0;0;0
-2019;September;StarLadder Major Berlin;Kazakhstan;3;3;3;0
-2021;November;PGL Major Stockholm;Kazakhstan;3;1;0;0
-2022;May;PGL Major Antwerp;Kazakhstan;0;0;0;0
-2022;November;IEM Rio Major;Kazakhstan;2;1;1;1
-2023;May;BLAST.tv Paris Major;Kazakhstan;0;0;0;0
-2024;March;PGL CS2 Major Copenhagen;Kazakhstan;1;0;0;0
-2024;December;Perfect World Shanghai Major;Kazakhstan;0;0;0;0
-2025;June;BLAST.tv Austin Major;Kazakhstan;1;0;0;0
-2013;November;DreamHack Winter;Canada;1;1;0;0
-2014;March;EMS One Katowice;Canada;1;0;0;0
-2014;August;ESL One Cologne;Canada;2;0;0;0
-2014;November;DreamHack Winter;Canada;0;0;0;0
-2015;March;ESL One Katowice;Canada;0;0;0;0
-2015;August;ESL One Cologne;Canada;0;0;0;0
-2015;November;DreamHack Open Cluj-Napoca;Canada;0;0;0;0
-2016;April;MLG Columbus;Canada;0;0;0;0
-2016;July;ESL One Cologne;Canada;0;0;0;0
-2017;January;ELEAGUE Major;Canada;0;0;0;0
-2017;July;PGL Major Krakow;Canada;0;0;0;0
-2018;January;ELEAGUE Major;Canada;0;0;0;0
-2018;September;FACEIT Major;Canada;4;2;0;0
-2019;March;IEM Katowice;Canada;2;0;0;0
-2019;September;StarLadder Major Berlin;Canada;3;1;0;0
-2021;November;PGL Major Stockholm;Canada;0;0;0;0
-2022;May;PGL Major Antwerp;Canada;1;1;1;1
-2022;November;IEM Rio Major;Canada;0;0;0;0
-2023;May;BLAST.tv Paris Major;Canada;2;0;0;0
-2024;March;PGL CS2 Major Copenhagen;Canada;0;0;0;0
-2024;December;Perfect World Shanghai Major;Canada;2;0;0;0
-2025;June;BLAST.tv Austin Major;Canada;0;0;0;0
-2013;November;DreamHack Winter;Chile;0;0;0;0
-2014;March;EMS One Katowice;Chile;0;0;0;0
-2014;August;ESL One Cologne;Chile;0;0;0;0
-2014;November;DreamHack Winter;Chile;0;0;0;0
-2015;March;ESL One Katowice;Chile;0;0;0;0
-2015;August;ESL One Cologne;Chile;0;0;0;0
-2015;November;DreamHack Open Cluj-Napoca;Chile;0;0;0;0
-2016;April;MLG Columbus;Chile;0;0;0;0
-2016;July;ESL One Cologne;Chile;0;0;0;0
-2017;January;ELEAGUE Major;Chile;0;0;0;0
-2017;July;PGL Major Krakow;Chile;0;0;0;0
-2018;January;ELEAGUE Major;Chile;0;0;0;0
-2018;September;FACEIT Major;Chile;0;0;0;0
-2019;March;IEM Katowice;Chile;0;0;0;0
-2019;September;StarLadder Major Berlin;Chile;0;0;0;0
-2021;November;PGL Major Stockholm;Chile;0;0;0;0
-2022;May;PGL Major Antwerp;Chile;0;0;0;0
-2022;November;IEM Rio Major;Chile;0;0;0;0
-2023;May;BLAST.tv Paris Major;Chile;0;0;0;0
-2024;March;PGL CS2 Major Copenhagen;Chile;0;0;0;0
-2024;December;Perfect World Shanghai Major;Chile;0;0;0;0
-2025;June;BLAST.tv Austin Major;Chile;1;1;0;0
-2013;November;DreamHack Winter;Guatemala;0;0;0;0
-2014;March;EMS One Katowice;Guatemala;0;0;0;0
-2014;August;ESL One Cologne;Guatemala;0;0;0;0
-2014;November;DreamHack Winter;Guatemala;0;0;0;0
-2015;March;ESL One Katowice;Guatemala;0;0;0;0
-2015;August;ESL One Cologne;Guatemala;0;0;0;0
-2015;November;DreamHack Open Cluj-Napoca;Guatemala;0;0;0;0
-2016;April;MLG Columbus;Guatemala;0;0;0;0
-2016;July;ESL One Cologne;Guatemala;0;0;0;0
-2017;January;ELEAGUE Major;Guatemala;0;0;0;0
-2017;July;PGL Major Krakow;Guatemala;0;0;0;0
-2018;January;ELEAGUE Major;Guatemala;0;0;0;0
-2018;September;FACEIT Major;Guatemala;0;0;0;0
-2019;March;IEM Katowice;Guatemala;0;0;0;0
-2019;September;StarLadder Major Berlin;Guatemala;0;0;0;0
-2021;November;PGL Major Stockholm;Guatemala;0;0;0;0
-2022;May;PGL Major Antwerp;Guatemala;0;0;0;0
-2022;November;IEM Rio Major;Guatemala;0;0;0;0
-2023;May;BLAST.tv Paris Major;Guatemala;0;0;0;0
-2024;March;PGL CS2 Major Copenhagen;Guatemala;0;0;0;0
-2024;December;Perfect World Shanghai Major;Guatemala;1;1;0;0
-2025;June;BLAST.tv Austin Major;Guatemala;0;0;0;0
-2013;November;DreamHack Winter;United Kingdom;0;0;0;0
-2014;March;EMS One Katowice;United Kingdom;0;0;0;0
-2014;August;ESL One Cologne;United Kingdom;0;0;0;0
-2014;November;DreamHack Winter;United Kingdom;0;0;0;0
-2015;March;ESL One Katowice;United Kingdom;0;0;0;0
-2015;August;ESL One Cologne;United Kingdom;0;0;0;0
-2015;November;DreamHack Open Cluj-Napoca;United Kingdom;0;0;0;0
-2016;April;MLG Columbus;United Kingdom;0;0;0;0
-2016;July;ESL One Cologne;United Kingdom;0;0;0;0
-2017;January;ELEAGUE Major;United Kingdom;0;0;0;0
-2017;July;PGL Major Krakow;United Kingdom;0;0;0;0
-2018;January;ELEAGUE Major;United Kingdom;0;0;0;0
-2018;September;FACEIT Major;United Kingdom;2;0;0;0
-2019;March;IEM Katowice;United Kingdom;0;0;0;0
-2019;September;StarLadder Major Berlin;United Kingdom;1;0;0;0
-2021;November;PGL Major Stockholm;United Kingdom;0;0;0;0
-2022;May;PGL Major Antwerp;United Kingdom;0;0;0;0
-2022;November;IEM Rio Major;United Kingdom;1;0;0;0
-2023;May;BLAST.tv Paris Major;United Kingdom;2;0;0;0
-2024;March;PGL CS2 Major Copenhagen;United Kingdom;1;1;0;0
-2024;December;Perfect World Shanghai Major;United Kingdom;1;0;0;0
-2025;June;BLAST.tv Austin Major;United Kingdom;1;1;1;1
-2013;November;DreamHack Winter;Switzerland;1;0;0;0
-2014;March;EMS One Katowice;Switzerland;1;0;0;0
-2014;August;ESL One Cologne;Switzerland;1;0;0;0
-2014;November;DreamHack Winter;Switzerland;0;0;0;0
-2015;March;ESL One Katowice;Switzerland;0;0;0;0
-2015;August;ESL One Cologne;Switzerland;0;0;0;0
-2015;November;DreamHack Open Cluj-Napoca;Switzerland;0;0;0;0
-2016;April;MLG Columbus;Switzerland;0;0;0;0
-2016;July;ESL One Cologne;Switzerland;0;0;0;0
-2017;January;ELEAGUE Major;Switzerland;0;0;0;0
-2017;July;PGL Major Krakow;Switzerland;0;0;0;0
-2018;January;ELEAGUE Major;Switzerland;0;0;0;0
-2018;September;FACEIT Major;Switzerland;0;0;0;0
-2019;March;IEM Katowice;Switzerland;0;0;0;0
-2019;September;StarLadder Major Berlin;Switzerland;0;0;0;0
-2021;November;PGL Major Stockholm;Switzerland;0;0;0;0
-2022;May;PGL Major Antwerp;Switzerland;0;0;0;0
-2022;November;IEM Rio Major;Switzerland;0;0;0;0
-2023;May;BLAST.tv Paris Major;Switzerland;0;0;0;0
-2024;March;PGL CS2 Major Copenhagen;Switzerland;0;0;0;0
-2024;December;Perfect World Shanghai Major;Switzerland;0;0;0;0
-2025;June;BLAST.tv Austin Major;Switzerland;0;0;0;0
-2013;November;DreamHack Winter;Latvia;0;0;0;0
-2014;March;EMS One Katowice;Latvia;0;0;0;0
-2014;August;ESL One Cologne;Latvia;0;0;0;0
-2014;November;DreamHack Winter;Latvia;0;0;0;0
-2015;March;ESL One Katowice;Latvia;0;0;0;0
-2015;August;ESL One Cologne;Latvia;0;0;0;0
-2015;November;DreamHack Open Cluj-Napoca;Latvia;0;0;0;0
-2016;April;MLG Columbus;Latvia;0;0;0;0
-2016;July;ESL One Cologne;Latvia;0;0;0;0
-2017;January;ELEAGUE Major;Latvia;0;0;0;0
-2017;July;PGL Major Krakow;Latvia;0;0;0;0
-2018;January;ELEAGUE Major;Latvia;0;0;0;0
-2018;September;FACEIT Major;Latvia;0;0;0;0
-2019;March;IEM Katowice;Latvia;0;0;0;0
-2019;September;StarLadder Major Berlin;Latvia;0;0;0;0
-2021;November;PGL Major Stockholm;Latvia;1;0;0;0
-2022;May;PGL Major Antwerp;Latvia;1;1;1;1
-2022;November;IEM Rio Major;Latvia;0;0;0;0
-2023;May;BLAST.tv Paris Major;Latvia;2;0;0;0
-2024;March;PGL CS2 Major Copenhagen;Latvia;1;1;1;0
-2024;December;Perfect World Shanghai Major;Latvia;2;1;1;0
-2025;June;BLAST.tv Austin Major;Latvia;1;0;0;0
-2013;November;DreamHack Winter;Israel;0;0;0;0
-2014;March;EMS One Katowice;Israel;0;0;0;0
-2014;August;ESL One Cologne;Israel;0;0;0;0
-2014;November;DreamHack Winter;Israel;0;0;0;0
-2015;March;ESL One Katowice;Israel;0;0;0;0
-2015;August;ESL One Cologne;Israel;0;0;0;0
-2015;November;DreamHack Open Cluj-Napoca;Israel;0;0;0;0
-2016;April;MLG Columbus;Israel;0;0;0;0
-2016;July;ESL One Cologne;Israel;0;0;0;0
-2017;January;ELEAGUE Major;Israel;0;0;0;0
-2017;July;PGL Major Krakow;Israel;0;0;0;0
-2018;January;ELEAGUE Major;Israel;0;0;0;0
-2018;September;FACEIT Major;Israel;0;0;0;0
-2019;March;IEM Katowice;Israel;0;0;0;0
-2019;September;StarLadder Major Berlin;Israel;0;0;0;0
-2021;November;PGL Major Stockholm;Israel;0;0;0;0
-2022;May;PGL Major Antwerp;Israel;1;1;0;0
-2022;November;IEM Rio Major;Israel;1;1;0;0
-2023;May;BLAST.tv Paris Major;Israel;1;1;1;1
-2024;March;PGL CS2 Major Copenhagen;Israel;3;2;0;0
-2024;December;Perfect World Shanghai Major;Israel;4;1;0;0
-2025;June;BLAST.tv Austin Major;Israel;3;3;1;1
-2013;November;DreamHack Winter;Serbia;0;0;0;0
-2014;March;EMS One Katowice;Serbia;0;0;0;0
-2014;August;ESL One Cologne;Serbia;0;0;0;0
-2014;November;DreamHack Winter;Serbia;0;0;0;0
-2015;March;ESL One Katowice;Serbia;0;0;0;0
-2015;August;ESL One Cologne;Serbia;0;0;0;0
-2015;November;DreamHack Open Cluj-Napoca;Serbia;0;0;0;0
-2016;April;MLG Columbus;Serbia;0;0;0;0
-2016;July;ESL One Cologne;Serbia;0;0;0;0
-2017;January;ELEAGUE Major;Serbia;0;0;0;0
-2017;July;PGL Major Krakow;Serbia;0;0;0;0
-2018;January;ELEAGUE Major;Serbia;0;0;0;0
-2018;September;FACEIT Major;Serbia;0;0;0;0
-2019;March;IEM Katowice;Serbia;0;0;0;0
-2019;September;StarLadder Major Berlin;Serbia;0;0;0;0
-2021;November;PGL Major Stockholm;Serbia;1;1;1;0
-2022;May;PGL Major Antwerp;Serbia;0;0;0;0
-2022;November;IEM Rio Major;Serbia;0;0;0;0
-2023;May;BLAST.tv Paris Major;Serbia;0;0;0;0
-2024;March;PGL CS2 Major Copenhagen;Serbia;1;1;0;0
-2024;December;Perfect World Shanghai Major;Serbia;0;0;0;0
-2025;June;BLAST.tv Austin Major;Serbia;0;0;0;0
-2013;November;DreamHack Winter;Romania;0;0;0;0
-2014;March;EMS One Katowice;Romania;0;0;0;0
-2014;August;ESL One Cologne;Romania;0;0;0;0
-2014;November;DreamHack Winter;Romania;0;0;0;0
-2015;March;ESL One Katowice;Romania;0;0;0;0
-2015;August;ESL One Cologne;Romania;0;0;0;0
-2015;November;DreamHack Open Cluj-Napoca;Romania;0;0;0;0
-2016;April;MLG Columbus;Romania;0;0;0;0
-2016;July;ESL One Cologne;Romania;0;0;0;0
-2017;January;ELEAGUE Major;Romania;0;0;0;0
-2017;July;PGL Major Krakow;Romania;0;0;0;0
-2018;January;ELEAGUE Major;Romania;0;0;0;0
-2018;September;FACEIT Major;Romania;0;0;0;0
-2019;March;IEM Katowice;Romania;0;0;0;0
-2019;September;StarLadder Major Berlin;Romania;0;0;0;0
-2021;November;PGL Major Stockholm;Romania;0;0;0;0
-2022;May;PGL Major Antwerp;Romania;0;0;0;0
-2022;November;IEM Rio Major;Romania;0;0;0;0
-2023;May;BLAST.tv Paris Major;Romania;2;1;1;0
-2024;March;PGL CS2 Major Copenhagen;Romania;1;1;1;1
-2024;December;Perfect World Shanghai Major;Romania;0;0;0;0
-2025;June;BLAST.tv Austin Major;Romania;1;0;0;0
-2013;November;DreamHack Winter;North Macedonia;0;0;0;0
-2014;March;EMS One Katowice;North Macedonia;0;0;0;0
-2014;August;ESL One Cologne;North Macedonia;0;0;0;0
-2014;November;DreamHack Winter;North Macedonia;0;0;0;0
-2015;March;ESL One Katowice;North Macedonia;0;0;0;0
-2015;August;ESL One Cologne;North Macedonia;0;0;0;0
-2015;November;DreamHack Open Cluj-Napoca;North Macedonia;0;0;0;0
-2016;April;MLG Columbus;North Macedonia;0;0;0;0
-2016;July;ESL One Cologne;North Macedonia;0;0;0;0
-2017;January;ELEAGUE Major;North Macedonia;0;0;0;0
-2017;July;PGL Major Krakow;North Macedonia;0;0;0;0
-2018;January;ELEAGUE Major;North Macedonia;0;0;0;0
-2018;September;FACEIT Major;North Macedonia;0;0;0;0
-2019;March;IEM Katowice;North Macedonia;0;0;0;0
-2019;September;StarLadder Major Berlin;North Macedonia;0;0;0;0
-2021;November;PGL Major Stockholm;North Macedonia;0;0;0;0
-2022;May;PGL Major Antwerp;North Macedonia;0;0;0;0
-2022;November;IEM Rio Major;North Macedonia;0;0;0;0
-2023;May;BLAST.tv Paris Major;North Macedonia;1;1;0;0
-2024;March;PGL CS2 Major Copenhagen;North Macedonia;0;0;0;0
-2024;December;Perfect World Shanghai Major;North Macedonia;1;0;0;0
-2025;June;BLAST.tv Austin Major;North Macedonia;0;0;0;0
-2013;November;DreamHack Winter;New Zealand;0;0;0;0
-2014;March;EMS One Katowice;New Zealand;0;0;0;0
-2014;August;ESL One Cologne;New Zealand;0;0;0;0
-2014;November;DreamHack Winter;New Zealand;0;0;0;0
-2015;March;ESL One Katowice;New Zealand;0;0;0;0
-2015;August;ESL One Cologne;New Zealand;0;0;0;0
-2015;November;DreamHack Open Cluj-Napoca;New Zealand;0;0;0;0
-2016;April;MLG Columbus;New Zealand;0;0;0;0
-2016;July;ESL One Cologne;New Zealand;0;0;0;0
-2017;January;ELEAGUE Major;New Zealand;0;0;0;0
-2017;July;PGL Major Krakow;New Zealand;0;0;0;0
-2018;January;ELEAGUE Major;New Zealand;0;0;0;0
-2018;September;FACEIT Major;New Zealand;0;0;0;0
-2019;March;IEM Katowice;New Zealand;1;0;0;0
-2019;September;StarLadder Major Berlin;New Zealand;1;1;0;0
-2021;November;PGL Major Stockholm;New Zealand;0;0;0;0
-2022;May;PGL Major Antwerp;New Zealand;0;0;0;0
-2022;November;IEM Rio Major;New Zealand;0;0;0;0
-2023;May;BLAST.tv Paris Major;New Zealand;0;0;0;0
-2024;March;PGL CS2 Major Copenhagen;New Zealand;0;0;0;0
-2024;December;Perfect World Shanghai Major;New Zealand;0;0;0;0
-2025;June;BLAST.tv Austin Major;New Zealand;0;0;0;0
-2013;November;DreamHack Winter;Estonia;0;0;0;0
-2014;March;EMS One Katowice;Estonia;0;0;0;0
-2014;August;ESL One Cologne;Estonia;0;0;0;0
-2014;November;DreamHack Winter;Estonia;0;0;0;0
-2015;March;ESL One Katowice;Estonia;0;0;0;0
-2015;August;ESL One Cologne;Estonia;0;0;0;0
-2015;November;DreamHack Open Cluj-Napoca;Estonia;0;0;0;0
-2016;April;MLG Columbus;Estonia;0;0;0;0
-2016;July;ESL One Cologne;Estonia;0;0;0;0
-2017;January;ELEAGUE Major;Estonia;0;0;0;0
-2017;July;PGL Major Krakow;Estonia;0;0;0;0
-2018;January;ELEAGUE Major;Estonia;1;0;0;0
-2018;September;FACEIT Major;Estonia;0;0;0;0
-2019;March;IEM Katowice;Estonia;0;0;0;0
-2019;September;StarLadder Major Berlin;Estonia;0;0;0;0
-2021;November;PGL Major Stockholm;Estonia;0;0;0;0
-2022;May;PGL Major Antwerp;Estonia;1;1;1;1
-2022;November;IEM Rio Major;Estonia;0;0;0;0
-2023;May;BLAST.tv Paris Major;Estonia;1;0;0;0
-2024;March;PGL CS2 Major Copenhagen;Estonia;1;1;1;0
-2024;December;Perfect World Shanghai Major;Estonia;1;1;1;0
-2025;June;BLAST.tv Austin Major;Estonia;1;1;1;1
-2013;November;DreamHack Winter;Australia;0;0;0;0
-2014;March;EMS One Katowice;Australia;0;0;0;0
-2014;August;ESL One Cologne;Australia;0;0;0;0
-2014;November;DreamHack Winter;Australia;0;0;0;0
-2015;March;ESL One Katowice;Australia;0;0;0;0
-2015;August;ESL One Cologne;Australia;0;0;0;0
-2015;November;DreamHack Open Cluj-Napoca;Australia;0;0;0;0
-2016;April;MLG Columbus;Australia;0;0;0;0
-2016;July;ESL One Cologne;Australia;0;0;0;0
-2017;January;ELEAGUE Major;Australia;0;0;0;0
-2017;July;PGL Major Krakow;Australia;0;0;0;0
-2018;January;ELEAGUE Major;Australia;0;0;0;0
-2018;September;FACEIT Major;Australia;0;0;0;0
-2019;March;IEM Katowice;Australia;3;0;0;0
-2019;September;StarLadder Major Berlin;Australia;3;3;0;0
-2021;November;PGL Major Stockholm;Australia;0;0;0;0
-2022;May;PGL Major Antwerp;Australia;0;0;0;0
-2022;November;IEM Rio Major;Australia;1;1;0;0
-2023;May;BLAST.tv Paris Major;Australia;0;0;0;0
-2024;March;PGL CS2 Major Copenhagen;Australia;0;0;0;0
-2024;December;Perfect World Shanghai Major;Australia;1;0;0;0
-2025;June;BLAST.tv Austin Major;Australia;0;0;0;0
-2013;November;DreamHack Winter;Lithuania;0;0;0;0
-2014;March;EMS One Katowice;Lithuania;0;0;0;0
-2014;August;ESL One Cologne;Lithuania;0;0;0;0
-2014;November;DreamHack Winter;Lithuania;0;0;0;0
-2015;March;ESL One Katowice;Lithuania;0;0;0;0
-2015;August;ESL One Cologne;Lithuania;0;0;0;0
-2015;November;DreamHack Open Cluj-Napoca;Lithuania;0;0;0;0
-2016;April;MLG Columbus;Lithuania;0;0;0;0
-2016;July;ESL One Cologne;Lithuania;0;0;0;0
-2017;January;ELEAGUE Major;Lithuania;0;0;0;0
-2017;July;PGL Major Krakow;Lithuania;0;0;0;0
-2018;January;ELEAGUE Major;Lithuania;1;0;0;0
-2018;September;FACEIT Major;Lithuania;0;0;0;0
-2019;March;IEM Katowice;Lithuania;0;0;0;0
-2019;September;StarLadder Major Berlin;Lithuania;0;0;0;0
-2021;November;PGL Major Stockholm;Lithuania;0;0;0;0
-2022;May;PGL Major Antwerp;Lithuania;0;0;0;0
-2022;November;IEM Rio Major;Lithuania;0;0;0;0
-2023;May;BLAST.tv Paris Major;Lithuania;1;1;0;0
-2024;March;PGL CS2 Major Copenhagen;Lithuania;1;1;1;1
-2024;December;Perfect World Shanghai Major;Lithuania;0;0;0;0
-2025;June;BLAST.tv Austin Major;Lithuania;1;0;0;0
-2013;November;DreamHack Winter;Portugal;0;0;0;0
-2014;March;EMS One Katowice;Portugal;0;0;0;0
-2014;August;ESL One Cologne;Portugal;0;0;0;0
-2014;November;DreamHack Winter;Portugal;0;0;0;0
-2015;March;ESL One Katowice;Portugal;0;0;0;0
-2015;August;ESL One Cologne;Portugal;1;0;0;0
-2015;November;DreamHack Open Cluj-Napoca;Portugal;1;1;0;0
-2016;April;MLG Columbus;Portugal;0;0;0;0
-2016;July;ESL One Cologne;Portugal;0;0;0;0
-2017;January;ELEAGUE Major;Portugal;1;1;0;0
-2017;July;PGL Major Krakow;Portugal;0;0;0;0
-2018;January;ELEAGUE Major;Portugal;0;0;0;0
-2018;September;FACEIT Major;Portugal;0;0;0;0
-2019;March;IEM Katowice;Portugal;0;0;0;0
-2019;September;StarLadder Major Berlin;Portugal;0;0;0;0
-2021;November;PGL Major Stockholm;Portugal;0;0;0;0
-2022;May;PGL Major Antwerp;Portugal;0;0;0;0
-2022;November;IEM Rio Major;Portugal;0;0;0;0
-2023;May;BLAST.tv Paris Major;Portugal;0;0;0;0
-2024;March;PGL CS2 Major Copenhagen;Portugal;0;0;0;0
-2024;December;Perfect World Shanghai Major;Portugal;0;0;0;0
-2025;June;BLAST.tv Austin Major;Portugal;0;0;0;0
-2013;November;DreamHack Winter;Hungary;0;0;0;0
-2014;March;EMS One Katowice;Hungary;0;0;0;0
-2014;August;ESL One Cologne;Hungary;0;0;0;0
-2014;November;DreamHack Winter;Hungary;0;0;0;0
-2015;March;ESL One Katowice;Hungary;0;0;0;0
-2015;August;ESL One Cologne;Hungary;0;0;0;0
-2015;November;DreamHack Open Cluj-Napoca;Hungary;0;0;0;0
-2016;April;MLG Columbus;Hungary;0;0;0;0
-2016;July;ESL One Cologne;Hungary;0;0;0;0
-2017;January;ELEAGUE Major;Hungary;0;0;0;0
-2017;July;PGL Major Krakow;Hungary;0;0;0;0
-2018;January;ELEAGUE Major;Hungary;0;0;0;0
-2018;September;FACEIT Major;Hungary;1;0;0;0
-2019;March;IEM Katowice;Hungary;0;0;0;0
-2019;September;StarLadder Major Berlin;Hungary;0;0;0;0
-2021;November;PGL Major Stockholm;Hungary;0;0;0;0
-2022;May;PGL Major Antwerp;Hungary;0;0;0;0
-2022;November;IEM Rio Major;Hungary;1;1;0;0
-2023;May;BLAST.tv Paris Major;Hungary;0;0;0;0
-2024;March;PGL CS2 Major Copenhagen;Hungary;1;0;0;0
-2024;December;Perfect World Shanghai Major;Hungary;1;1;0;0
-2025;June;BLAST.tv Austin Major;Hungary;1;1;0;0
-2013;November;DreamHack Winter;Montenegro;0;0;0;0
-2014;March;EMS One Katowice;Montenegro;0;0;0;0
-2014;August;ESL One Cologne;Montenegro;0;0;0;0
-2014;November;DreamHack Winter;Montenegro;0;0;0;0
-2015;March;ESL One Katowice;Montenegro;0;0;0;0
-2015;August;ESL One Cologne;Montenegro;0;0;0;0
-2015;November;DreamHack Open Cluj-Napoca;Montenegro;0;0;0;0
-2016;April;MLG Columbus;Montenegro;0;0;0;0
-2016;July;ESL One Cologne;Montenegro;0;0;0;0
-2017;January;ELEAGUE Major;Montenegro;0;0;0;0
-2017;July;PGL Major Krakow;Montenegro;0;0;0;0
-2018;January;ELEAGUE Major;Montenegro;0;0;0;0
-2018;September;FACEIT Major;Montenegro;0;0;0;0
-2019;March;IEM Katowice;Montenegro;0;0;0;0
-2019;September;StarLadder Major Berlin;Montenegro;0;0;0;0
-2021;November;PGL Major Stockholm;Montenegro;0;0;0;0
-2022;May;PGL Major Antwerp;Montenegro;1;1;0;0
-2022;November;IEM Rio Major;Montenegro;0;0;0;0
-2023;May;BLAST.tv Paris Major;Montenegro;0;0;0;0
-2024;March;PGL CS2 Major Copenhagen;Montenegro;0;0;0;0
-2024;December;Perfect World Shanghai Major;Montenegro;0;0;0;0
-2025;June;BLAST.tv Austin Major;Montenegro;0;0;0;0
-2013;November;DreamHack Winter;Uzbekistan;0;0;0;0
-2014;March;EMS One Katowice;Uzbekistan;0;0;0;0
-2014;August;ESL One Cologne;Uzbekistan;0;0;0;0
-2014;November;DreamHack Winter;Uzbekistan;0;0;0;0
-2015;March;ESL One Katowice;Uzbekistan;0;0;0;0
-2015;August;ESL One Cologne;Uzbekistan;0;0;0;0
-2015;November;DreamHack Open Cluj-Napoca;Uzbekistan;0;0;0;0
-2016;April;MLG Columbus;Uzbekistan;0;0;0;0
-2016;July;ESL One Cologne;Uzbekistan;0;0;0;0
-2017;January;ELEAGUE Major;Uzbekistan;0;0;0;0
-2017;July;PGL Major Krakow;Uzbekistan;0;0;0;0
-2018;January;ELEAGUE Major;Uzbekistan;0;0;0;0
-2018;September;FACEIT Major;Uzbekistan;0;0;0;0
-2019;March;IEM Katowice;Uzbekistan;0;0;0;0
-2019;September;StarLadder Major Berlin;Uzbekistan;1;1;1;0
-2021;November;PGL Major Stockholm;Uzbekistan;0;0;0;0
-2022;May;PGL Major Antwerp;Uzbekistan;0;0;0;0
-2022;November;IEM Rio Major;Uzbekistan;0;0;0;0
-2023;May;BLAST.tv Paris Major;Uzbekistan;0;0;0;0
-2024;March;PGL CS2 Major Copenhagen;Uzbekistan;0;0;0;0
-2024;December;Perfect World Shanghai Major;Uzbekistan;0;0;0;0
-2025;June;BLAST.tv Austin Major;Uzbekistan;0;0;0;0
-2013;November;DreamHack Winter;Czechia;0;0;0;0
-2014;March;EMS One Katowice;Czechia;0;0;0;0
-2014;August;ESL One Cologne;Czechia;0;0;0;0
-2014;November;DreamHack Winter;Czechia;0;0;0;0
-2015;March;ESL One Katowice;Czechia;0;0;0;0
-2015;August;ESL One Cologne;Czechia;0;0;0;0
-2015;November;DreamHack Open Cluj-Napoca;Czechia;0;0;0;0
-2016;April;MLG Columbus;Czechia;0;0;0;0
-2016;July;ESL One Cologne;Czechia;0;0;0;0
-2017;January;ELEAGUE Major;Czechia;0;0;0;0
-2017;July;PGL Major Krakow;Czechia;0;0;0;0
-2018;January;ELEAGUE Major;Czechia;1;0;0;0
-2018;September;FACEIT Major;Czechia;0;0;0;0
-2019;March;IEM Katowice;Czechia;0;0;0;0
-2019;September;StarLadder Major Berlin;Czechia;0;0;0;0
-2021;November;PGL Major Stockholm;Czechia;0;0;0;0
-2022;May;PGL Major Antwerp;Czechia;0;0;0;0
-2022;November;IEM Rio Major;Czechia;0;0;0;0
-2023;May;BLAST.tv Paris Major;Czechia;0;0;0;0
-2024;March;PGL CS2 Major Copenhagen;Czechia;0;0;0;0
-2024;December;Perfect World Shanghai Major;Czechia;0;0;0;0
-2025;June;BLAST.tv Austin Major;Czechia;0;0;0;0
-2013;November;DreamHack Winter;Bulgaria;0;0;0;0
-2014;March;EMS One Katowice;Bulgaria;0;0;0;0
-2014;August;ESL One Cologne;Bulgaria;0;0;0;0
-2014;November;DreamHack Winter;Bulgaria;0;0;0;0
-2015;March;ESL One Katowice;Bulgaria;0;0;0;0
-2015;August;ESL One Cologne;Bulgaria;0;0;0;0
-2015;November;DreamHack Open Cluj-Napoca;Bulgaria;0;0;0;0
-2016;April;MLG Columbus;Bulgaria;0;0;0;0
-2016;July;ESL One Cologne;Bulgaria;0;0;0;0
-2017;January;ELEAGUE Major;Bulgaria;0;0;0;0
-2017;July;PGL Major Krakow;Bulgaria;0;0;0;0
-2018;January;ELEAGUE Major;Bulgaria;0;0;0;0
-2018;September;FACEIT Major;Bulgaria;0;0;0;0
-2019;March;IEM Katowice;Bulgaria;0;0;0;0
-2019;September;StarLadder Major Berlin;Bulgaria;1;1;0;0
-2021;November;PGL Major Stockholm;Bulgaria;0;0;0;0
-2022;May;PGL Major Antwerp;Bulgaria;0;0;0;0
-2022;November;IEM Rio Major;Bulgaria;0;0;0;0
-2023;May;BLAST.tv Paris Major;Bulgaria;0;0;0;0
-2024;March;PGL CS2 Major Copenhagen;Bulgaria;0;0;0;0
-2024;December;Perfect World Shanghai Major;Bulgaria;0;0;0;0
-2025;June;BLAST.tv Austin Major;Bulgaria;0;0;0;0
-2013;November;DreamHack Winter;Jordan;0;0;0;0
-2014;March;EMS One Katowice;Jordan;0;0;0;0
-2014;August;ESL One Cologne;Jordan;0;0;0;0
-2014;November;DreamHack Winter;Jordan;0;0;0;0
-2015;March;ESL One Katowice;Jordan;0;0;0;0
-2015;August;ESL One Cologne;Jordan;0;0;0;0
-2015;November;DreamHack Open Cluj-Napoca;Jordan;0;0;0;0
-2016;April;MLG Columbus;Jordan;0;0;0;0
-2016;July;ESL One Cologne;Jordan;0;0;0;0
-2017;January;ELEAGUE Major;Jordan;0;0;0;0
-2017;July;PGL Major Krakow;Jordan;0;0;0;0
-2018;January;ELEAGUE Major;Jordan;0;0;0;0
-2018;September;FACEIT Major;Jordan;1;0;0;0
-2019;March;IEM Katowice;Jordan;0;0;0;0
-2019;September;StarLadder Major Berlin;Jordan;0;0;0;0
-2021;November;PGL Major Stockholm;Jordan;0;0;0;0
-2022;May;PGL Major Antwerp;Jordan;0;0;0;0
-2022;November;IEM Rio Major;Jordan;0;0;0;0
-2023;May;BLAST.tv Paris Major;Jordan;1;0;0;0
-2024;March;PGL CS2 Major Copenhagen;Jordan;0;0;0;0
-2024;December;Perfect World Shanghai Major;Jordan;0;0;0;0
-2025;June;BLAST.tv Austin Major;Jordan;0;0;0;0
-2013;November;DreamHack Winter;Holland;0;0;0;0
-2014;March;EMS One Katowice;Holland;0;0;0;0
-2014;August;ESL One Cologne;Holland;0;0;0;0
-2014;November;DreamHack Winter;Holland;0;0;0;0
-2015;March;ESL One Katowice;Holland;0;0;0;0
-2015;August;ESL One Cologne;Holland;0;0;0;0
-2015;November;DreamHack Open Cluj-Napoca;Holland;0;0;0;0
-2016;April;MLG Columbus;Holland;0;0;0;0
-2016;July;ESL One Cologne;Holland;0;0;0;0
-2017;January;ELEAGUE Major;Holland;0;0;0;0
-2017;July;PGL Major Krakow;Holland;0;0;0;0
-2018;January;ELEAGUE Major;Holland;1;0;0;0
-2018;September;FACEIT Major;Holland;0;0;0;0
-2019;March;IEM Katowice;Holland;0;0;0;0
-2019;September;StarLadder Major Berlin;Holland;0;0;0;0
-2021;November;PGL Major Stockholm;Holland;0;0;0;0
-2022;May;PGL Major Antwerp;Holland;0;0;0;0
-2022;November;IEM Rio Major;Holland;1;0;0;0
-2023;May;BLAST.tv Paris Major;Holland;1;0;0;0
-2024;March;PGL CS2 Major Copenhagen;Holland;0;0;0;0
-2024;December;Perfect World Shanghai Major;Holland;0;0;0;0
-2025;June;BLAST.tv Austin Major;Holland;0;0;0;0
-2013;November;DreamHack Winter;Belgium;2;2;0;0
-2014;March;EMS One Katowice;Belgium;0;0;0;0
-2014;August;ESL One Cologne;Belgium;0;0;0;0
-2014;November;DreamHack Winter;Belgium;0;0;0;0
-2015;March;ESL One Katowice;Belgium;0;0;0;0
-2015;August;ESL One Cologne;Belgium;1;0;0;0
-2015;November;DreamHack Open Cluj-Napoca;Belgium;0;0;0;0
-2016;April;MLG Columbus;Belgium;0;0;0;0
-2016;July;ESL One Cologne;Belgium;0;0;0;0
-2017;January;ELEAGUE Major;Belgium;0;0;0;0
-2017;July;PGL Major Krakow;Belgium;0;0;0;0
-2018;January;ELEAGUE Major;Belgium;0;0;0;0
-2018;September;FACEIT Major;Belgium;0;0;0;0
-2019;March;IEM Katowice;Belgium;0;0;0;0
-2019;September;StarLadder Major Berlin;Belgium;0;0;0;0
-2021;November;PGL Major Stockholm;Belgium;0;0;0;0
-2022;May;PGL Major Antwerp;Belgium;0;0;0;0
-2022;November;IEM Rio Major;Belgium;0;0;0;0
-2023;May;BLAST.tv Paris Major;Belgium;1;1;1;0
-2024;March;PGL CS2 Major Copenhagen;Belgium;0;0;0;0
-2024;December;Perfect World Shanghai Major;Belgium;0;0;0;0
-2025;June;BLAST.tv Austin Major;Belgium;0;0;0;0
-2013;November;DreamHack Winter;Bosnia;0;0;0;0
-2014;March;EMS One Katowice;Bosnia;0;0;0;0
-2014;August;ESL One Cologne;Bosnia;0;0;0;0
-2014;November;DreamHack Winter;Bosnia;0;0;0;0
-2015;March;ESL One Katowice;Bosnia;0;0;0;0
-2015;August;ESL One Cologne;Bosnia;0;0;0;0
-2015;November;DreamHack Open Cluj-Napoca;Bosnia;0;0;0;0
-2016;April;MLG Columbus;Bosnia;0;0;0;0
-2016;July;ESL One Cologne;Bosnia;0;0;0;0
-2017;January;ELEAGUE Major;Bosnia;0;0;0;0
-2017;July;PGL Major Krakow;Bosnia;0;0;0;0
-2018;January;ELEAGUE Major;Bosnia;1;1;1;0
-2018;September;FACEIT Major;Bosnia;1;0;0;0
-2019;March;IEM Katowice;Bosnia;1;0;0;0
-2019;September;StarLadder Major Berlin;Bosnia;0;0;0;0
-2021;November;PGL Major Stockholm;Bosnia;2;2;2;0
-2022;May;PGL Major Antwerp;Bosnia;0;0;0;0
-2022;November;IEM Rio Major;Bosnia;0;0;0;0
-2023;May;BLAST.tv Paris Major;Bosnia;0;0;0;0
-2024;March;PGL CS2 Major Copenhagen;Bosnia;2;2;0;0
-2024;December;Perfect World Shanghai Major;Bosnia;2;2;0;0
-2025;June;BLAST.tv Austin Major;Bosnia;0;0;0;0
-2013;November;DreamHack Winter;Germany;0;0;0;0
-2014;March;EMS One Katowice;Germany;0;0;0;0
-2014;August;ESL One Cologne;Germany;0;0;0;0
-2014;November;DreamHack Winter;Germany;5;0;0;0
-2015;March;ESL One Katowice;Germany;5;0;0;0
-2015;August;ESL One Cologne;Germany;0;0;0;0
-2015;November;DreamHack Open Cluj-Napoca;Germany;0;0;0;0
-2016;April;MLG Columbus;Germany;0;0;0;0
-2016;July;ESL One Cologne;Germany;0;0;0;0
-2017;January;ELEAGUE Major;Germany;0;0;0;0
-2017;July;PGL Major Krakow;Germany;5;0;0;0
-2018;January;ELEAGUE Major;Germany;0;0;0;0
-2018;September;FACEIT Major;Germany;4;0;0;0
-2019;March;IEM Katowice;Germany;0;0;0;0
-2019;September;StarLadder Major Berlin;Germany;0;0;0;0
-2021;November;PGL Major Stockholm;Germany;0;0;0;0
-2022;May;PGL Major Antwerp;Germany;0;0;0;0
-2022;November;IEM Rio Major;Germany;1;1;0;0
-2023;May;BLAST.tv Paris Major;Germany;0;0;0;0
-2024;March;PGL CS2 Major Copenhagen;Germany;0;0;0;0
-2024;December;Perfect World Shanghai Major;Germany;0;0;0;0
-2025;June;BLAST.tv Austin Major;Germany;0;0;0;0
+year,month_finished,tournament,country,quarter,semi,final,won
+2013,November,DreamHack Winter,Ukraine,2,0,0,0
+2014,March,EMS One Katowice,Ukraine,2,0,0,0
+2014,August,ESL One Cologne,Ukraine,3,0,0,0
+2014,November,DreamHack Winter,Ukraine,6,3,0,0
+2015,March,ESL One Katowice,Ukraine,3,0,0,0
+2015,August,ESL One Cologne,Ukraine,2,0,0,0
+2015,November,DreamHack Open Cluj-Napoca,Ukraine,2,2,2,0
+2016,April,MLG Columbus,Ukraine,3,3,2,0
+2016,July,ESL One Cologne,Ukraine,6,1,1,0
+2017,January,ELEAGUE Major,Ukraine,3,0,0,0
+2017,July,PGL Major Krakow,Ukraine,1,1,1,1
+2018,January,ELEAGUE Major,Ukraine,3,3,0,0
+2018,September,FACEIT Major,Ukraine,5,3,3,0
+2019,March,IEM Katowice,Ukraine,3,3,0,0
+2019,September,StarLadder Major Berlin,Ukraine,2,0,0,0
+2021,November,PGL Major Stockholm,Ukraine,2,2,2,2
+2022,May,PGL Major Antwerp,Ukraine,2,2,2,0
+2022,November,IEM Rio Major,Ukraine,4,0,0,0
+2023,May,BLAST.tv Paris Major,Ukraine,4,0,0,0
+2024,March,PGL CS2 Major Copenhagen,Ukraine,3,2,2,2
+2024,December,Perfect World Shanghai Major,Ukraine,1,1,1,1
+2025,June,BLAST.tv Austin Major,Ukraine,4,0,0,0
+2013,November,DreamHack Winter,Sweden,15,10,10,5
+2014,March,EMS One Katowice,Sweden,15,10,5,0
+2014,August,ESL One Cologne,Sweden,10,10,10,5
+2014,November,DreamHack Winter,Sweden,10,5,5,0
+2015,March,ESL One Katowice,Sweden,9,9,9,5
+2015,August,ESL One Cologne,Sweden,11,5,5,5
+2015,November,DreamHack Open Cluj-Napoca,Sweden,11,6,0,0
+2016,April,MLG Columbus,Sweden,10,0,0,0
+2016,July,ESL One Cologne,Sweden,5,5,0,0
+2017,January,ELEAGUE Major,Sweden,5,5,0,0
+2017,July,PGL Major Krakow,Sweden,5,0,0,0
+2018,January,ELEAGUE Major,Sweden,6,1,1,0
+2018,September,FACEIT Major,Sweden,1,0,0,0
+2019,March,IEM Katowice,Sweden,6,0,0,0
+2019,September,StarLadder Major Berlin,Sweden,0,0,0,0
+2021,November,PGL Major Stockholm,Sweden,4,0,0,0
+2022,May,PGL Major Antwerp,Sweden,4,0,0,0
+2022,November,IEM Rio Major,Sweden,1,0,0,0
+2023,May,BLAST.tv Paris Major,Sweden,2,2,1,0
+2024,March,PGL CS2 Major Copenhagen,Sweden,1,0,0,0
+2024,December,Perfect World Shanghai Major,Sweden,1,1,0,0
+2025,June,BLAST.tv Austin Major,Sweden,1,1,0,0
+2013,November,DreamHack Winter,Russia,2,0,0,0
+2014,March,EMS One Katowice,Russia,2,0,0,0
+2014,August,ESL One Cologne,Russia,1,0,0,0
+2014,November,DreamHack Winter,Russia,3,1,0,0
+2015,March,ESL One Katowice,Russia,1,0,0,0
+2015,August,ESL One Cologne,Russia,2,0,0,0
+2015,November,DreamHack Open Cluj-Napoca,Russia,2,2,2,0
+2016,April,MLG Columbus,Russia,2,2,2,0
+2016,July,ESL One Cologne,Russia,7,0,0,0
+2017,January,ELEAGUE Major,Russia,3,0,0,0
+2017,July,PGL Major Krakow,Russia,1,1,1,1
+2018,January,ELEAGUE Major,Russia,6,2,0,0
+2018,September,FACEIT Major,Russia,2,2,2,0
+2019,March,IEM Katowice,Russia,2,2,0,0
+2019,September,StarLadder Major Berlin,Russia,4,1,1,0
+2021,November,PGL Major Stockholm,Russia,9,7,3,3
+2022,May,PGL Major Antwerp,Russia,8,8,3,0
+2022,November,IEM Rio Major,Russia,14,4,4,4
+2023,May,BLAST.tv Paris Major,Russia,0,0,0,0
+2024,March,PGL CS2 Major Copenhagen,Russia,9,1,0,0
+2024,December,Perfect World Shanghai Major,Russia,6,5,4,4
+2025,June,BLAST.tv Austin Major,Russia,4,0,0,0
+2013,November,DreamHack Winter,Denmark,5,0,0,0
+2014,March,EMS One Katowice,Denmark,5,5,0,0
+2014,August,ESL One Cologne,Denmark,5,5,0,0
+2014,November,DreamHack Winter,Denmark,5,0,0,0
+2015,March,ESL One Katowice,Denmark,5,0,0,0
+2015,August,ESL One Cologne,Denmark,5,5,0,0
+2015,November,DreamHack Open Cluj-Napoca,Denmark,5,0,0,0
+2016,April,MLG Columbus,Denmark,5,5,0,0
+2016,July,ESL One Cologne,Denmark,5,0,0,0
+2017,January,ELEAGUE Major,Denmark,11,5,5,5
+2017,July,PGL Major Krakow,Denmark,10,5,0,0
+2018,January,ELEAGUE Major,Denmark,1,1,1,0
+2018,September,FACEIT Major,Denmark,6,5,5,5
+2019,March,IEM Katowice,Denmark,5,5,5,5
+2019,September,StarLadder Major Berlin,Denmark,5,5,5,5
+2021,November,PGL Major Stockholm,Denmark,6,5,0,0
+2022,May,PGL Major Antwerp,Denmark,13,2,1,1
+2022,November,IEM Rio Major,Denmark,7,5,5,0
+2023,May,BLAST.tv Paris Major,Denmark,9,8,3,2
+2024,March,PGL CS2 Major Copenhagen,Denmark,2,2,1,0
+2024,December,Perfect World Shanghai Major,Denmark,3,1,1,0
+2025,June,BLAST.tv Austin Major,Denmark,1,0,0,0
+2013,November,DreamHack Winter,Brazil,0,0,0,0
+2014,March,EMS One Katowice,Brazil,0,0,0,0
+2014,August,ESL One Cologne,Brazil,0,0,0,0
+2014,November,DreamHack Winter,Brazil,0,0,0,0
+2015,March,ESL One Katowice,Brazil,5,0,0,0
+2015,August,ESL One Cologne,Brazil,5,0,0,0
+2015,November,DreamHack Open Cluj-Napoca,Brazil,5,0,0,0
+2016,April,MLG Columbus,Brazil,5,5,5,5
+2016,July,ESL One Cologne,Brazil,5,5,5,5
+2017,January,ELEAGUE Major,Brazil,4,4,0,0
+2017,July,PGL Major Krakow,Brazil,10,5,5,0
+2018,January,ELEAGUE Major,Brazil,5,5,0,0
+2018,September,FACEIT Major,Brazil,4,4,0,0
+2019,March,IEM Katowice,Brazil,5,5,0,0
+2019,September,StarLadder Major Berlin,Brazil,0,0,0,0
+2021,November,PGL Major Stockholm,Brazil,5,0,0,0
+2022,May,PGL Major Antwerp,Brazil,5,0,0,0
+2022,November,IEM Rio Major,Brazil,5,5,0,0
+2023,May,BLAST.tv Paris Major,Brazil,0,0,0,0
+2024,March,PGL CS2 Major Copenhagen,Brazil,0,0,0,0
+2024,December,Perfect World Shanghai Major,Brazil,0,0,0,0
+2025,June,BLAST.tv Austin Major,Brazil,6,3,0,0
+2013,November,DreamHack Winter,France,7,3,0,0
+2014,March,EMS One Katowice,France,4,0,0,0
+2014,August,ESL One Cologne,France,9,5,0,0
+2014,November,DreamHack Winter,France,5,5,5,5
+2015,March,ESL One Katowice,France,5,5,0,0
+2015,August,ESL One Cologne,France,5,5,5,0
+2015,November,DreamHack Open Cluj-Napoca,France,5,5,5,5
+2016,April,MLG Columbus,France,0,0,0,0
+2016,July,ESL One Cologne,France,0,0,0,0
+2017,January,ELEAGUE Major,France,1,0,0,0
+2017,July,PGL Major Krakow,France,0,0,0,0
+2018,January,ELEAGUE Major,France,5,0,0,0
+2018,September,FACEIT Major,France,0,0,0,0
+2019,March,IEM Katowice,France,0,0,0,0
+2019,September,StarLadder Major Berlin,France,4,0,0,0
+2021,November,PGL Major Stockholm,France,7,2,2,0
+2022,May,PGL Major Antwerp,France,0,0,0,0
+2022,November,IEM Rio Major,France,0,0,0,0
+2023,May,BLAST.tv Paris Major,France,2,2,2,2
+2024,March,PGL CS2 Major Copenhagen,France,2,2,0,0
+2024,December,Perfect World Shanghai Major,France,2,0,0,0
+2025,June,BLAST.tv Austin Major,France,2,2,2,2
+2013,November,DreamHack Winter,Poland,0,0,0,0
+2014,March,EMS One Katowice,Poland,5,5,5,5
+2014,August,ESL One Cologne,Poland,5,0,0,0
+2014,November,DreamHack Winter,Poland,5,5,0,0
+2015,March,ESL One Katowice,Poland,5,5,0,0
+2015,August,ESL One Cologne,Poland,5,5,0,0
+2015,November,DreamHack Open Cluj-Napoca,Poland,5,0,0,0
+2016,April,MLG Columbus,Poland,5,0,0,0
+2016,July,ESL One Cologne,Poland,5,5,0,0
+2017,January,ELEAGUE Major,Poland,5,5,5,0
+2017,July,PGL Major Krakow,Poland,5,5,0,0
+2018,January,ELEAGUE Major,Poland,0,0,0,0
+2018,September,FACEIT Major,Poland,0,0,0,0
+2019,March,IEM Katowice,Poland,0,0,0,0
+2019,September,StarLadder Major Berlin,Poland,0,0,0,0
+2021,November,PGL Major Stockholm,Poland,0,0,0,0
+2022,May,PGL Major Antwerp,Poland,2,2,0,0
+2022,November,IEM Rio Major,Poland,0,0,0,0
+2023,May,BLAST.tv Paris Major,Poland,2,1,1,0
+2024,March,PGL CS2 Major Copenhagen,Poland,1,0,0,0
+2024,December,Perfect World Shanghai Major,Poland,3,2,0,0
+2025,June,BLAST.tv Austin Major,Poland,0,0,0,0
+2013,November,DreamHack Winter,Slovakia,0,0,0,0
+2014,March,EMS One Katowice,Slovakia,0,0,0,0
+2014,August,ESL One Cologne,Slovakia,1,0,0,0
+2014,November,DreamHack Winter,Slovakia,1,1,0,0
+2015,March,ESL One Katowice,Slovakia,1,0,0,0
+2015,August,ESL One Cologne,Slovakia,1,0,0,0
+2015,November,DreamHack Open Cluj-Napoca,Slovakia,1,1,1,0
+2016,April,MLG Columbus,Slovakia,1,1,1,0
+2016,July,ESL One Cologne,Slovakia,1,0,0,0
+2017,January,ELEAGUE Major,Slovakia,1,0,0,0
+2017,July,PGL Major Krakow,Slovakia,0,0,0,0
+2018,January,ELEAGUE Major,Slovakia,2,1,1,0
+2018,September,FACEIT Major,Slovakia,1,0,0,0
+2019,March,IEM Katowice,Slovakia,1,0,0,0
+2019,September,StarLadder Major Berlin,Slovakia,0,0,0,0
+2021,November,PGL Major Stockholm,Slovakia,0,0,0,0
+2022,May,PGL Major Antwerp,Slovakia,0,0,0,0
+2022,November,IEM Rio Major,Slovakia,1,1,0,0
+2023,May,BLAST.tv Paris Major,Slovakia,1,1,0,0
+2024,March,PGL CS2 Major Copenhagen,Slovakia,1,1,1,0
+2024,December,Perfect World Shanghai Major,Slovakia,1,1,1,0
+2025,June,BLAST.tv Austin Major,Slovakia,1,0,0,0
+2013,November,DreamHack Winter,Turkiye,0,0,0,0
+2014,March,EMS One Katowice,Turkiye,0,0,0,0
+2014,August,ESL One Cologne,Turkiye,0,0,0,0
+2014,November,DreamHack Winter,Turkiye,0,0,0,0
+2015,March,ESL One Katowice,Turkiye,0,0,0,0
+2015,August,ESL One Cologne,Turkiye,0,0,0,0
+2015,November,DreamHack Open Cluj-Napoca,Turkiye,0,0,0,0
+2016,April,MLG Columbus,Turkiye,0,0,0,0
+2016,July,ESL One Cologne,Turkiye,0,0,0,0
+2017,January,ELEAGUE Major,Turkiye,0,0,0,0
+2017,July,PGL Major Krakow,Turkiye,0,0,0,0
+2018,January,ELEAGUE Major,Turkiye,0,0,0,0
+2018,September,FACEIT Major,Turkiye,1,0,0,0
+2019,March,IEM Katowice,Turkiye,0,0,0,0
+2019,September,StarLadder Major Berlin,Turkiye,0,0,0,0
+2021,November,PGL Major Stockholm,Turkiye,0,0,0,0
+2022,May,PGL Major Antwerp,Turkiye,0,0,0,0
+2022,November,IEM Rio Major,Turkiye,0,0,0,0
+2023,May,BLAST.tv Paris Major,Turkiye,0,0,0,0
+2024,March,PGL CS2 Major Copenhagen,Turkiye,5,0,0,0
+2024,December,Perfect World Shanghai Major,Turkiye,0,0,0,0
+2025,June,BLAST.tv Austin Major,Turkiye,0,0,0,0
+2013,November,DreamHack Winter,Norway,0,0,0,0
+2014,March,EMS One Katowice,Norway,0,0,0,0
+2014,August,ESL One Cologne,Norway,0,0,0,0
+2014,November,DreamHack Winter,Norway,0,0,0,0
+2015,March,ESL One Katowice,Norway,0,0,0,0
+2015,August,ESL One Cologne,Norway,1,0,0,0
+2015,November,DreamHack Open Cluj-Napoca,Norway,2,2,0,0
+2016,April,MLG Columbus,Norway,0,0,0,0
+2016,July,ESL One Cologne,Norway,0,0,0,0
+2017,January,ELEAGUE Major,Norway,2,0,0,0
+2017,July,PGL Major Krakow,Norway,0,0,0,0
+2018,January,ELEAGUE Major,Norway,1,1,1,0
+2018,September,FACEIT Major,Norway,1,0,0,0
+2019,March,IEM Katowice,Norway,2,0,0,0
+2019,September,StarLadder Major Berlin,Norway,1,1,0,0
+2021,November,PGL Major Stockholm,Norway,0,0,0,0
+2022,May,PGL Major Antwerp,Norway,1,1,1,1
+2022,November,IEM Rio Major,Norway,0,0,0,0
+2023,May,BLAST.tv Paris Major,Norway,2,1,0,0
+2024,March,PGL CS2 Major Copenhagen,Norway,1,1,1,0
+2024,December,Perfect World Shanghai Major,Norway,1,1,1,0
+2025,June,BLAST.tv Austin Major,Norway,1,0,0,0
+2013,November,DreamHack Winter,Uruguay,0,0,0,0
+2014,March,EMS One Katowice,Uruguay,0,0,0,0
+2014,August,ESL One Cologne,Uruguay,0,0,0,0
+2014,November,DreamHack Winter,Uruguay,0,0,0,0
+2015,March,ESL One Katowice,Uruguay,0,0,0,0
+2015,August,ESL One Cologne,Uruguay,0,0,0,0
+2015,November,DreamHack Open Cluj-Napoca,Uruguay,0,0,0,0
+2016,April,MLG Columbus,Uruguay,0,0,0,0
+2016,July,ESL One Cologne,Uruguay,0,0,0,0
+2017,January,ELEAGUE Major,Uruguay,0,0,0,0
+2017,July,PGL Major Krakow,Uruguay,0,0,0,0
+2018,January,ELEAGUE Major,Uruguay,0,0,0,0
+2018,September,FACEIT Major,Uruguay,0,0,0,0
+2019,March,IEM Katowice,Uruguay,0,0,0,0
+2019,September,StarLadder Major Berlin,Uruguay,0,0,0,0
+2021,November,PGL Major Stockholm,Uruguay,0,0,0,0
+2022,May,PGL Major Antwerp,Uruguay,0,0,0,0
+2022,November,IEM Rio Major,Uruguay,0,0,0,0
+2023,May,BLAST.tv Paris Major,Uruguay,0,0,0,0
+2024,March,PGL CS2 Major Copenhagen,Uruguay,0,0,0,0
+2024,December,Perfect World Shanghai Major,Uruguay,0,0,0,0
+2025,June,BLAST.tv Austin Major,Uruguay,1,1,0,0
+2013,November,DreamHack Winter,Mongolia,0,0,0,0
+2014,March,EMS One Katowice,Mongolia,0,0,0,0
+2014,August,ESL One Cologne,Mongolia,0,0,0,0
+2014,November,DreamHack Winter,Mongolia,0,0,0,0
+2015,March,ESL One Katowice,Mongolia,0,0,0,0
+2015,August,ESL One Cologne,Mongolia,0,0,0,0
+2015,November,DreamHack Open Cluj-Napoca,Mongolia,0,0,0,0
+2016,April,MLG Columbus,Mongolia,0,0,0,0
+2016,July,ESL One Cologne,Mongolia,0,0,0,0
+2017,January,ELEAGUE Major,Mongolia,0,0,0,0
+2017,July,PGL Major Krakow,Mongolia,0,0,0,0
+2018,January,ELEAGUE Major,Mongolia,0,0,0,0
+2018,September,FACEIT Major,Mongolia,0,0,0,0
+2019,March,IEM Katowice,Mongolia,0,0,0,0
+2019,September,StarLadder Major Berlin,Mongolia,0,0,0,0
+2021,November,PGL Major Stockholm,Mongolia,0,0,0,0
+2022,May,PGL Major Antwerp,Mongolia,0,0,0,0
+2022,November,IEM Rio Major,Mongolia,0,0,0,0
+2023,May,BLAST.tv Paris Major,Mongolia,0,0,0,0
+2024,March,PGL CS2 Major Copenhagen,Mongolia,0,0,0,0
+2024,December,Perfect World Shanghai Major,Mongolia,5,0,0,0
+2025,June,BLAST.tv Austin Major,Mongolia,5,5,5,0
+2013,November,DreamHack Winter,United States,4,4,0,0
+2014,March,EMS One Katowice,United States,4,0,0,0
+2014,August,ESL One Cologne,United States,3,0,0,0
+2014,November,DreamHack Winter,United States,0,0,0,0
+2015,March,ESL One Katowice,United States,0,0,0,0
+2015,August,ESL One Cologne,United States,0,0,0,0
+2015,November,DreamHack Open Cluj-Napoca,United States,0,0,0,0
+2016,April,MLG Columbus,United States,9,4,0,0
+2016,July,ESL One Cologne,United States,4,4,4,0
+2017,January,ELEAGUE Major,United States,0,0,0,0
+2017,July,PGL Major Krakow,United States,0,0,0,0
+2018,January,ELEAGUE Major,United States,5,5,5,5
+2018,September,FACEIT Major,United States,6,4,0,0
+2019,March,IEM Katowice,United States,3,0,0,0
+2019,September,StarLadder Major Berlin,United States,6,3,0,0
+2021,November,PGL Major Stockholm,United States,0,0,0,0
+2022,May,PGL Major Antwerp,United States,0,0,0,0
+2022,November,IEM Rio Major,United States,0,0,0,0
+2023,May,BLAST.tv Paris Major,United States,3,0,0,0
+2024,March,PGL CS2 Major Copenhagen,United States,0,0,0,0
+2024,December,Perfect World Shanghai Major,United States,0,0,0,0
+2025,June,BLAST.tv Austin Major,United States,1,0,0,0
+2013,November,DreamHack Winter,Finland,0,0,0,0
+2014,March,EMS One Katowice,Finland,0,0,0,0
+2014,August,ESL One Cologne,Finland,0,0,0,0
+2014,November,DreamHack Winter,Finland,0,0,0,0
+2015,March,ESL One Katowice,Finland,1,1,1,0
+2015,August,ESL One Cologne,Finland,1,0,0,0
+2015,November,DreamHack Open Cluj-Napoca,Finland,1,1,0,0
+2016,April,MLG Columbus,Finland,0,0,0,0
+2016,July,ESL One Cologne,Finland,0,0,0,0
+2017,January,ELEAGUE Major,Finland,1,0,0,0
+2017,July,PGL Major Krakow,Finland,0,0,0,0
+2018,January,ELEAGUE Major,Finland,1,0,0,0
+2018,September,FACEIT Major,Finland,0,0,0,0
+2019,March,IEM Katowice,Finland,5,5,5,0
+2019,September,StarLadder Major Berlin,Finland,5,0,0,0
+2021,November,PGL Major Stockholm,Finland,0,0,0,0
+2022,May,PGL Major Antwerp,Finland,0,0,0,0
+2022,November,IEM Rio Major,Finland,0,0,0,0
+2023,May,BLAST.tv Paris Major,Finland,0,0,0,0
+2024,March,PGL CS2 Major Copenhagen,Finland,2,1,1,1
+2024,December,Perfect World Shanghai Major,Finland,1,1,0,0
+2025,June,BLAST.tv Austin Major,Finland,2,1,0,0
+2013,November,DreamHack Winter,Kazakhstan,1,0,0,0
+2014,March,EMS One Katowice,Kazakhstan,1,0,0,0
+2014,August,ESL One Cologne,Kazakhstan,0,0,0,0
+2014,November,DreamHack Winter,Kazakhstan,0,0,0,0
+2015,March,ESL One Katowice,Kazakhstan,0,0,0,0
+2015,August,ESL One Cologne,Kazakhstan,0,0,0,0
+2015,November,DreamHack Open Cluj-Napoca,Kazakhstan,0,0,0,0
+2016,April,MLG Columbus,Kazakhstan,0,0,0,0
+2016,July,ESL One Cologne,Kazakhstan,2,0,0,0
+2017,January,ELEAGUE Major,Kazakhstan,3,0,0,0
+2017,July,PGL Major Krakow,Kazakhstan,3,3,3,3
+2018,January,ELEAGUE Major,Kazakhstan,0,0,0,0
+2018,September,FACEIT Major,Kazakhstan,0,0,0,0
+2019,March,IEM Katowice,Kazakhstan,1,0,0,0
+2019,September,StarLadder Major Berlin,Kazakhstan,3,3,3,0
+2021,November,PGL Major Stockholm,Kazakhstan,3,1,0,0
+2022,May,PGL Major Antwerp,Kazakhstan,0,0,0,0
+2022,November,IEM Rio Major,Kazakhstan,2,1,1,1
+2023,May,BLAST.tv Paris Major,Kazakhstan,0,0,0,0
+2024,March,PGL CS2 Major Copenhagen,Kazakhstan,1,0,0,0
+2024,December,Perfect World Shanghai Major,Kazakhstan,0,0,0,0
+2025,June,BLAST.tv Austin Major,Kazakhstan,1,0,0,0
+2013,November,DreamHack Winter,Canada,1,1,0,0
+2014,March,EMS One Katowice,Canada,1,0,0,0
+2014,August,ESL One Cologne,Canada,2,0,0,0
+2014,November,DreamHack Winter,Canada,0,0,0,0
+2015,March,ESL One Katowice,Canada,0,0,0,0
+2015,August,ESL One Cologne,Canada,0,0,0,0
+2015,November,DreamHack Open Cluj-Napoca,Canada,0,0,0,0
+2016,April,MLG Columbus,Canada,0,0,0,0
+2016,July,ESL One Cologne,Canada,0,0,0,0
+2017,January,ELEAGUE Major,Canada,0,0,0,0
+2017,July,PGL Major Krakow,Canada,0,0,0,0
+2018,January,ELEAGUE Major,Canada,0,0,0,0
+2018,September,FACEIT Major,Canada,4,2,0,0
+2019,March,IEM Katowice,Canada,2,0,0,0
+2019,September,StarLadder Major Berlin,Canada,3,1,0,0
+2021,November,PGL Major Stockholm,Canada,0,0,0,0
+2022,May,PGL Major Antwerp,Canada,1,1,1,1
+2022,November,IEM Rio Major,Canada,0,0,0,0
+2023,May,BLAST.tv Paris Major,Canada,2,0,0,0
+2024,March,PGL CS2 Major Copenhagen,Canada,0,0,0,0
+2024,December,Perfect World Shanghai Major,Canada,2,0,0,0
+2025,June,BLAST.tv Austin Major,Canada,0,0,0,0
+2013,November,DreamHack Winter,Chile,0,0,0,0
+2014,March,EMS One Katowice,Chile,0,0,0,0
+2014,August,ESL One Cologne,Chile,0,0,0,0
+2014,November,DreamHack Winter,Chile,0,0,0,0
+2015,March,ESL One Katowice,Chile,0,0,0,0
+2015,August,ESL One Cologne,Chile,0,0,0,0
+2015,November,DreamHack Open Cluj-Napoca,Chile,0,0,0,0
+2016,April,MLG Columbus,Chile,0,0,0,0
+2016,July,ESL One Cologne,Chile,0,0,0,0
+2017,January,ELEAGUE Major,Chile,0,0,0,0
+2017,July,PGL Major Krakow,Chile,0,0,0,0
+2018,January,ELEAGUE Major,Chile,0,0,0,0
+2018,September,FACEIT Major,Chile,0,0,0,0
+2019,March,IEM Katowice,Chile,0,0,0,0
+2019,September,StarLadder Major Berlin,Chile,0,0,0,0
+2021,November,PGL Major Stockholm,Chile,0,0,0,0
+2022,May,PGL Major Antwerp,Chile,0,0,0,0
+2022,November,IEM Rio Major,Chile,0,0,0,0
+2023,May,BLAST.tv Paris Major,Chile,0,0,0,0
+2024,March,PGL CS2 Major Copenhagen,Chile,0,0,0,0
+2024,December,Perfect World Shanghai Major,Chile,0,0,0,0
+2025,June,BLAST.tv Austin Major,Chile,1,1,0,0
+2013,November,DreamHack Winter,Guatemala,0,0,0,0
+2014,March,EMS One Katowice,Guatemala,0,0,0,0
+2014,August,ESL One Cologne,Guatemala,0,0,0,0
+2014,November,DreamHack Winter,Guatemala,0,0,0,0
+2015,March,ESL One Katowice,Guatemala,0,0,0,0
+2015,August,ESL One Cologne,Guatemala,0,0,0,0
+2015,November,DreamHack Open Cluj-Napoca,Guatemala,0,0,0,0
+2016,April,MLG Columbus,Guatemala,0,0,0,0
+2016,July,ESL One Cologne,Guatemala,0,0,0,0
+2017,January,ELEAGUE Major,Guatemala,0,0,0,0
+2017,July,PGL Major Krakow,Guatemala,0,0,0,0
+2018,January,ELEAGUE Major,Guatemala,0,0,0,0
+2018,September,FACEIT Major,Guatemala,0,0,0,0
+2019,March,IEM Katowice,Guatemala,0,0,0,0
+2019,September,StarLadder Major Berlin,Guatemala,0,0,0,0
+2021,November,PGL Major Stockholm,Guatemala,0,0,0,0
+2022,May,PGL Major Antwerp,Guatemala,0,0,0,0
+2022,November,IEM Rio Major,Guatemala,0,0,0,0
+2023,May,BLAST.tv Paris Major,Guatemala,0,0,0,0
+2024,March,PGL CS2 Major Copenhagen,Guatemala,0,0,0,0
+2024,December,Perfect World Shanghai Major,Guatemala,1,1,0,0
+2025,June,BLAST.tv Austin Major,Guatemala,0,0,0,0
+2013,November,DreamHack Winter,United Kingdom,0,0,0,0
+2014,March,EMS One Katowice,United Kingdom,0,0,0,0
+2014,August,ESL One Cologne,United Kingdom,0,0,0,0
+2014,November,DreamHack Winter,United Kingdom,0,0,0,0
+2015,March,ESL One Katowice,United Kingdom,0,0,0,0
+2015,August,ESL One Cologne,United Kingdom,0,0,0,0
+2015,November,DreamHack Open Cluj-Napoca,United Kingdom,0,0,0,0
+2016,April,MLG Columbus,United Kingdom,0,0,0,0
+2016,July,ESL One Cologne,United Kingdom,0,0,0,0
+2017,January,ELEAGUE Major,United Kingdom,0,0,0,0
+2017,July,PGL Major Krakow,United Kingdom,0,0,0,0
+2018,January,ELEAGUE Major,United Kingdom,0,0,0,0
+2018,September,FACEIT Major,United Kingdom,2,0,0,0
+2019,March,IEM Katowice,United Kingdom,0,0,0,0
+2019,September,StarLadder Major Berlin,United Kingdom,1,0,0,0
+2021,November,PGL Major Stockholm,United Kingdom,0,0,0,0
+2022,May,PGL Major Antwerp,United Kingdom,0,0,0,0
+2022,November,IEM Rio Major,United Kingdom,1,0,0,0
+2023,May,BLAST.tv Paris Major,United Kingdom,2,0,0,0
+2024,March,PGL CS2 Major Copenhagen,United Kingdom,1,1,0,0
+2024,December,Perfect World Shanghai Major,United Kingdom,1,0,0,0
+2025,June,BLAST.tv Austin Major,United Kingdom,1,1,1,1
+2013,November,DreamHack Winter,Switzerland,1,0,0,0
+2014,March,EMS One Katowice,Switzerland,1,0,0,0
+2014,August,ESL One Cologne,Switzerland,1,0,0,0
+2014,November,DreamHack Winter,Switzerland,0,0,0,0
+2015,March,ESL One Katowice,Switzerland,0,0,0,0
+2015,August,ESL One Cologne,Switzerland,0,0,0,0
+2015,November,DreamHack Open Cluj-Napoca,Switzerland,0,0,0,0
+2016,April,MLG Columbus,Switzerland,0,0,0,0
+2016,July,ESL One Cologne,Switzerland,0,0,0,0
+2017,January,ELEAGUE Major,Switzerland,0,0,0,0
+2017,July,PGL Major Krakow,Switzerland,0,0,0,0
+2018,January,ELEAGUE Major,Switzerland,0,0,0,0
+2018,September,FACEIT Major,Switzerland,0,0,0,0
+2019,March,IEM Katowice,Switzerland,0,0,0,0
+2019,September,StarLadder Major Berlin,Switzerland,0,0,0,0
+2021,November,PGL Major Stockholm,Switzerland,0,0,0,0
+2022,May,PGL Major Antwerp,Switzerland,0,0,0,0
+2022,November,IEM Rio Major,Switzerland,0,0,0,0
+2023,May,BLAST.tv Paris Major,Switzerland,0,0,0,0
+2024,March,PGL CS2 Major Copenhagen,Switzerland,0,0,0,0
+2024,December,Perfect World Shanghai Major,Switzerland,0,0,0,0
+2025,June,BLAST.tv Austin Major,Switzerland,0,0,0,0
+2013,November,DreamHack Winter,Latvia,0,0,0,0
+2014,March,EMS One Katowice,Latvia,0,0,0,0
+2014,August,ESL One Cologne,Latvia,0,0,0,0
+2014,November,DreamHack Winter,Latvia,0,0,0,0
+2015,March,ESL One Katowice,Latvia,0,0,0,0
+2015,August,ESL One Cologne,Latvia,0,0,0,0
+2015,November,DreamHack Open Cluj-Napoca,Latvia,0,0,0,0
+2016,April,MLG Columbus,Latvia,0,0,0,0
+2016,July,ESL One Cologne,Latvia,0,0,0,0
+2017,January,ELEAGUE Major,Latvia,0,0,0,0
+2017,July,PGL Major Krakow,Latvia,0,0,0,0
+2018,January,ELEAGUE Major,Latvia,0,0,0,0
+2018,September,FACEIT Major,Latvia,0,0,0,0
+2019,March,IEM Katowice,Latvia,0,0,0,0
+2019,September,StarLadder Major Berlin,Latvia,0,0,0,0
+2021,November,PGL Major Stockholm,Latvia,1,0,0,0
+2022,May,PGL Major Antwerp,Latvia,1,1,1,1
+2022,November,IEM Rio Major,Latvia,0,0,0,0
+2023,May,BLAST.tv Paris Major,Latvia,2,0,0,0
+2024,March,PGL CS2 Major Copenhagen,Latvia,1,1,1,0
+2024,December,Perfect World Shanghai Major,Latvia,2,1,1,0
+2025,June,BLAST.tv Austin Major,Latvia,1,0,0,0
+2013,November,DreamHack Winter,Israel,0,0,0,0
+2014,March,EMS One Katowice,Israel,0,0,0,0
+2014,August,ESL One Cologne,Israel,0,0,0,0
+2014,November,DreamHack Winter,Israel,0,0,0,0
+2015,March,ESL One Katowice,Israel,0,0,0,0
+2015,August,ESL One Cologne,Israel,0,0,0,0
+2015,November,DreamHack Open Cluj-Napoca,Israel,0,0,0,0
+2016,April,MLG Columbus,Israel,0,0,0,0
+2016,July,ESL One Cologne,Israel,0,0,0,0
+2017,January,ELEAGUE Major,Israel,0,0,0,0
+2017,July,PGL Major Krakow,Israel,0,0,0,0
+2018,January,ELEAGUE Major,Israel,0,0,0,0
+2018,September,FACEIT Major,Israel,0,0,0,0
+2019,March,IEM Katowice,Israel,0,0,0,0
+2019,September,StarLadder Major Berlin,Israel,0,0,0,0
+2021,November,PGL Major Stockholm,Israel,0,0,0,0
+2022,May,PGL Major Antwerp,Israel,1,1,0,0
+2022,November,IEM Rio Major,Israel,1,1,0,0
+2023,May,BLAST.tv Paris Major,Israel,1,1,1,1
+2024,March,PGL CS2 Major Copenhagen,Israel,3,2,0,0
+2024,December,Perfect World Shanghai Major,Israel,4,1,0,0
+2025,June,BLAST.tv Austin Major,Israel,3,3,1,1
+2013,November,DreamHack Winter,Serbia,0,0,0,0
+2014,March,EMS One Katowice,Serbia,0,0,0,0
+2014,August,ESL One Cologne,Serbia,0,0,0,0
+2014,November,DreamHack Winter,Serbia,0,0,0,0
+2015,March,ESL One Katowice,Serbia,0,0,0,0
+2015,August,ESL One Cologne,Serbia,0,0,0,0
+2015,November,DreamHack Open Cluj-Napoca,Serbia,0,0,0,0
+2016,April,MLG Columbus,Serbia,0,0,0,0
+2016,July,ESL One Cologne,Serbia,0,0,0,0
+2017,January,ELEAGUE Major,Serbia,0,0,0,0
+2017,July,PGL Major Krakow,Serbia,0,0,0,0
+2018,January,ELEAGUE Major,Serbia,0,0,0,0
+2018,September,FACEIT Major,Serbia,0,0,0,0
+2019,March,IEM Katowice,Serbia,0,0,0,0
+2019,September,StarLadder Major Berlin,Serbia,0,0,0,0
+2021,November,PGL Major Stockholm,Serbia,1,1,1,0
+2022,May,PGL Major Antwerp,Serbia,0,0,0,0
+2022,November,IEM Rio Major,Serbia,0,0,0,0
+2023,May,BLAST.tv Paris Major,Serbia,0,0,0,0
+2024,March,PGL CS2 Major Copenhagen,Serbia,1,1,0,0
+2024,December,Perfect World Shanghai Major,Serbia,0,0,0,0
+2025,June,BLAST.tv Austin Major,Serbia,0,0,0,0
+2013,November,DreamHack Winter,Romania,0,0,0,0
+2014,March,EMS One Katowice,Romania,0,0,0,0
+2014,August,ESL One Cologne,Romania,0,0,0,0
+2014,November,DreamHack Winter,Romania,0,0,0,0
+2015,March,ESL One Katowice,Romania,0,0,0,0
+2015,August,ESL One Cologne,Romania,0,0,0,0
+2015,November,DreamHack Open Cluj-Napoca,Romania,0,0,0,0
+2016,April,MLG Columbus,Romania,0,0,0,0
+2016,July,ESL One Cologne,Romania,0,0,0,0
+2017,January,ELEAGUE Major,Romania,0,0,0,0
+2017,July,PGL Major Krakow,Romania,0,0,0,0
+2018,January,ELEAGUE Major,Romania,0,0,0,0
+2018,September,FACEIT Major,Romania,0,0,0,0
+2019,March,IEM Katowice,Romania,0,0,0,0
+2019,September,StarLadder Major Berlin,Romania,0,0,0,0
+2021,November,PGL Major Stockholm,Romania,0,0,0,0
+2022,May,PGL Major Antwerp,Romania,0,0,0,0
+2022,November,IEM Rio Major,Romania,0,0,0,0
+2023,May,BLAST.tv Paris Major,Romania,2,1,1,0
+2024,March,PGL CS2 Major Copenhagen,Romania,1,1,1,1
+2024,December,Perfect World Shanghai Major,Romania,0,0,0,0
+2025,June,BLAST.tv Austin Major,Romania,1,0,0,0
+2013,November,DreamHack Winter,North Macedonia,0,0,0,0
+2014,March,EMS One Katowice,North Macedonia,0,0,0,0
+2014,August,ESL One Cologne,North Macedonia,0,0,0,0
+2014,November,DreamHack Winter,North Macedonia,0,0,0,0
+2015,March,ESL One Katowice,North Macedonia,0,0,0,0
+2015,August,ESL One Cologne,North Macedonia,0,0,0,0
+2015,November,DreamHack Open Cluj-Napoca,North Macedonia,0,0,0,0
+2016,April,MLG Columbus,North Macedonia,0,0,0,0
+2016,July,ESL One Cologne,North Macedonia,0,0,0,0
+2017,January,ELEAGUE Major,North Macedonia,0,0,0,0
+2017,July,PGL Major Krakow,North Macedonia,0,0,0,0
+2018,January,ELEAGUE Major,North Macedonia,0,0,0,0
+2018,September,FACEIT Major,North Macedonia,0,0,0,0
+2019,March,IEM Katowice,North Macedonia,0,0,0,0
+2019,September,StarLadder Major Berlin,North Macedonia,0,0,0,0
+2021,November,PGL Major Stockholm,North Macedonia,0,0,0,0
+2022,May,PGL Major Antwerp,North Macedonia,0,0,0,0
+2022,November,IEM Rio Major,North Macedonia,0,0,0,0
+2023,May,BLAST.tv Paris Major,North Macedonia,1,1,0,0
+2024,March,PGL CS2 Major Copenhagen,North Macedonia,0,0,0,0
+2024,December,Perfect World Shanghai Major,North Macedonia,1,0,0,0
+2025,June,BLAST.tv Austin Major,North Macedonia,0,0,0,0
+2013,November,DreamHack Winter,New Zealand,0,0,0,0
+2014,March,EMS One Katowice,New Zealand,0,0,0,0
+2014,August,ESL One Cologne,New Zealand,0,0,0,0
+2014,November,DreamHack Winter,New Zealand,0,0,0,0
+2015,March,ESL One Katowice,New Zealand,0,0,0,0
+2015,August,ESL One Cologne,New Zealand,0,0,0,0
+2015,November,DreamHack Open Cluj-Napoca,New Zealand,0,0,0,0
+2016,April,MLG Columbus,New Zealand,0,0,0,0
+2016,July,ESL One Cologne,New Zealand,0,0,0,0
+2017,January,ELEAGUE Major,New Zealand,0,0,0,0
+2017,July,PGL Major Krakow,New Zealand,0,0,0,0
+2018,January,ELEAGUE Major,New Zealand,0,0,0,0
+2018,September,FACEIT Major,New Zealand,0,0,0,0
+2019,March,IEM Katowice,New Zealand,1,0,0,0
+2019,September,StarLadder Major Berlin,New Zealand,1,1,0,0
+2021,November,PGL Major Stockholm,New Zealand,0,0,0,0
+2022,May,PGL Major Antwerp,New Zealand,0,0,0,0
+2022,November,IEM Rio Major,New Zealand,0,0,0,0
+2023,May,BLAST.tv Paris Major,New Zealand,0,0,0,0
+2024,March,PGL CS2 Major Copenhagen,New Zealand,0,0,0,0
+2024,December,Perfect World Shanghai Major,New Zealand,0,0,0,0
+2025,June,BLAST.tv Austin Major,New Zealand,0,0,0,0
+2013,November,DreamHack Winter,Estonia,0,0,0,0
+2014,March,EMS One Katowice,Estonia,0,0,0,0
+2014,August,ESL One Cologne,Estonia,0,0,0,0
+2014,November,DreamHack Winter,Estonia,0,0,0,0
+2015,March,ESL One Katowice,Estonia,0,0,0,0
+2015,August,ESL One Cologne,Estonia,0,0,0,0
+2015,November,DreamHack Open Cluj-Napoca,Estonia,0,0,0,0
+2016,April,MLG Columbus,Estonia,0,0,0,0
+2016,July,ESL One Cologne,Estonia,0,0,0,0
+2017,January,ELEAGUE Major,Estonia,0,0,0,0
+2017,July,PGL Major Krakow,Estonia,0,0,0,0
+2018,January,ELEAGUE Major,Estonia,1,0,0,0
+2018,September,FACEIT Major,Estonia,0,0,0,0
+2019,March,IEM Katowice,Estonia,0,0,0,0
+2019,September,StarLadder Major Berlin,Estonia,0,0,0,0
+2021,November,PGL Major Stockholm,Estonia,0,0,0,0
+2022,May,PGL Major Antwerp,Estonia,1,1,1,1
+2022,November,IEM Rio Major,Estonia,0,0,0,0
+2023,May,BLAST.tv Paris Major,Estonia,1,0,0,0
+2024,March,PGL CS2 Major Copenhagen,Estonia,1,1,1,0
+2024,December,Perfect World Shanghai Major,Estonia,1,1,1,0
+2025,June,BLAST.tv Austin Major,Estonia,1,1,1,1
+2013,November,DreamHack Winter,Australia,0,0,0,0
+2014,March,EMS One Katowice,Australia,0,0,0,0
+2014,August,ESL One Cologne,Australia,0,0,0,0
+2014,November,DreamHack Winter,Australia,0,0,0,0
+2015,March,ESL One Katowice,Australia,0,0,0,0
+2015,August,ESL One Cologne,Australia,0,0,0,0
+2015,November,DreamHack Open Cluj-Napoca,Australia,0,0,0,0
+2016,April,MLG Columbus,Australia,0,0,0,0
+2016,July,ESL One Cologne,Australia,0,0,0,0
+2017,January,ELEAGUE Major,Australia,0,0,0,0
+2017,July,PGL Major Krakow,Australia,0,0,0,0
+2018,January,ELEAGUE Major,Australia,0,0,0,0
+2018,September,FACEIT Major,Australia,0,0,0,0
+2019,March,IEM Katowice,Australia,3,0,0,0
+2019,September,StarLadder Major Berlin,Australia,3,3,0,0
+2021,November,PGL Major Stockholm,Australia,0,0,0,0
+2022,May,PGL Major Antwerp,Australia,0,0,0,0
+2022,November,IEM Rio Major,Australia,1,1,0,0
+2023,May,BLAST.tv Paris Major,Australia,0,0,0,0
+2024,March,PGL CS2 Major Copenhagen,Australia,0,0,0,0
+2024,December,Perfect World Shanghai Major,Australia,1,0,0,0
+2025,June,BLAST.tv Austin Major,Australia,0,0,0,0
+2013,November,DreamHack Winter,Lithuania,0,0,0,0
+2014,March,EMS One Katowice,Lithuania,0,0,0,0
+2014,August,ESL One Cologne,Lithuania,0,0,0,0
+2014,November,DreamHack Winter,Lithuania,0,0,0,0
+2015,March,ESL One Katowice,Lithuania,0,0,0,0
+2015,August,ESL One Cologne,Lithuania,0,0,0,0
+2015,November,DreamHack Open Cluj-Napoca,Lithuania,0,0,0,0
+2016,April,MLG Columbus,Lithuania,0,0,0,0
+2016,July,ESL One Cologne,Lithuania,0,0,0,0
+2017,January,ELEAGUE Major,Lithuania,0,0,0,0
+2017,July,PGL Major Krakow,Lithuania,0,0,0,0
+2018,January,ELEAGUE Major,Lithuania,1,0,0,0
+2018,September,FACEIT Major,Lithuania,0,0,0,0
+2019,March,IEM Katowice,Lithuania,0,0,0,0
+2019,September,StarLadder Major Berlin,Lithuania,0,0,0,0
+2021,November,PGL Major Stockholm,Lithuania,0,0,0,0
+2022,May,PGL Major Antwerp,Lithuania,0,0,0,0
+2022,November,IEM Rio Major,Lithuania,0,0,0,0
+2023,May,BLAST.tv Paris Major,Lithuania,1,1,0,0
+2024,March,PGL CS2 Major Copenhagen,Lithuania,1,1,1,1
+2024,December,Perfect World Shanghai Major,Lithuania,0,0,0,0
+2025,June,BLAST.tv Austin Major,Lithuania,1,0,0,0
+2013,November,DreamHack Winter,Portugal,0,0,0,0
+2014,March,EMS One Katowice,Portugal,0,0,0,0
+2014,August,ESL One Cologne,Portugal,0,0,0,0
+2014,November,DreamHack Winter,Portugal,0,0,0,0
+2015,March,ESL One Katowice,Portugal,0,0,0,0
+2015,August,ESL One Cologne,Portugal,1,0,0,0
+2015,November,DreamHack Open Cluj-Napoca,Portugal,1,1,0,0
+2016,April,MLG Columbus,Portugal,0,0,0,0
+2016,July,ESL One Cologne,Portugal,0,0,0,0
+2017,January,ELEAGUE Major,Portugal,1,1,0,0
+2017,July,PGL Major Krakow,Portugal,0,0,0,0
+2018,January,ELEAGUE Major,Portugal,0,0,0,0
+2018,September,FACEIT Major,Portugal,0,0,0,0
+2019,March,IEM Katowice,Portugal,0,0,0,0
+2019,September,StarLadder Major Berlin,Portugal,0,0,0,0
+2021,November,PGL Major Stockholm,Portugal,0,0,0,0
+2022,May,PGL Major Antwerp,Portugal,0,0,0,0
+2022,November,IEM Rio Major,Portugal,0,0,0,0
+2023,May,BLAST.tv Paris Major,Portugal,0,0,0,0
+2024,March,PGL CS2 Major Copenhagen,Portugal,0,0,0,0
+2024,December,Perfect World Shanghai Major,Portugal,0,0,0,0
+2025,June,BLAST.tv Austin Major,Portugal,0,0,0,0
+2013,November,DreamHack Winter,Hungary,0,0,0,0
+2014,March,EMS One Katowice,Hungary,0,0,0,0
+2014,August,ESL One Cologne,Hungary,0,0,0,0
+2014,November,DreamHack Winter,Hungary,0,0,0,0
+2015,March,ESL One Katowice,Hungary,0,0,0,0
+2015,August,ESL One Cologne,Hungary,0,0,0,0
+2015,November,DreamHack Open Cluj-Napoca,Hungary,0,0,0,0
+2016,April,MLG Columbus,Hungary,0,0,0,0
+2016,July,ESL One Cologne,Hungary,0,0,0,0
+2017,January,ELEAGUE Major,Hungary,0,0,0,0
+2017,July,PGL Major Krakow,Hungary,0,0,0,0
+2018,January,ELEAGUE Major,Hungary,0,0,0,0
+2018,September,FACEIT Major,Hungary,1,0,0,0
+2019,March,IEM Katowice,Hungary,0,0,0,0
+2019,September,StarLadder Major Berlin,Hungary,0,0,0,0
+2021,November,PGL Major Stockholm,Hungary,0,0,0,0
+2022,May,PGL Major Antwerp,Hungary,0,0,0,0
+2022,November,IEM Rio Major,Hungary,1,1,0,0
+2023,May,BLAST.tv Paris Major,Hungary,0,0,0,0
+2024,March,PGL CS2 Major Copenhagen,Hungary,1,0,0,0
+2024,December,Perfect World Shanghai Major,Hungary,1,1,0,0
+2025,June,BLAST.tv Austin Major,Hungary,1,1,0,0
+2013,November,DreamHack Winter,Montenegro,0,0,0,0
+2014,March,EMS One Katowice,Montenegro,0,0,0,0
+2014,August,ESL One Cologne,Montenegro,0,0,0,0
+2014,November,DreamHack Winter,Montenegro,0,0,0,0
+2015,March,ESL One Katowice,Montenegro,0,0,0,0
+2015,August,ESL One Cologne,Montenegro,0,0,0,0
+2015,November,DreamHack Open Cluj-Napoca,Montenegro,0,0,0,0
+2016,April,MLG Columbus,Montenegro,0,0,0,0
+2016,July,ESL One Cologne,Montenegro,0,0,0,0
+2017,January,ELEAGUE Major,Montenegro,0,0,0,0
+2017,July,PGL Major Krakow,Montenegro,0,0,0,0
+2018,January,ELEAGUE Major,Montenegro,0,0,0,0
+2018,September,FACEIT Major,Montenegro,0,0,0,0
+2019,March,IEM Katowice,Montenegro,0,0,0,0
+2019,September,StarLadder Major Berlin,Montenegro,0,0,0,0
+2021,November,PGL Major Stockholm,Montenegro,0,0,0,0
+2022,May,PGL Major Antwerp,Montenegro,1,1,0,0
+2022,November,IEM Rio Major,Montenegro,0,0,0,0
+2023,May,BLAST.tv Paris Major,Montenegro,0,0,0,0
+2024,March,PGL CS2 Major Copenhagen,Montenegro,0,0,0,0
+2024,December,Perfect World Shanghai Major,Montenegro,0,0,0,0
+2025,June,BLAST.tv Austin Major,Montenegro,0,0,0,0
+2013,November,DreamHack Winter,Uzbekistan,0,0,0,0
+2014,March,EMS One Katowice,Uzbekistan,0,0,0,0
+2014,August,ESL One Cologne,Uzbekistan,0,0,0,0
+2014,November,DreamHack Winter,Uzbekistan,0,0,0,0
+2015,March,ESL One Katowice,Uzbekistan,0,0,0,0
+2015,August,ESL One Cologne,Uzbekistan,0,0,0,0
+2015,November,DreamHack Open Cluj-Napoca,Uzbekistan,0,0,0,0
+2016,April,MLG Columbus,Uzbekistan,0,0,0,0
+2016,July,ESL One Cologne,Uzbekistan,0,0,0,0
+2017,January,ELEAGUE Major,Uzbekistan,0,0,0,0
+2017,July,PGL Major Krakow,Uzbekistan,0,0,0,0
+2018,January,ELEAGUE Major,Uzbekistan,0,0,0,0
+2018,September,FACEIT Major,Uzbekistan,0,0,0,0
+2019,March,IEM Katowice,Uzbekistan,0,0,0,0
+2019,September,StarLadder Major Berlin,Uzbekistan,1,1,1,0
+2021,November,PGL Major Stockholm,Uzbekistan,0,0,0,0
+2022,May,PGL Major Antwerp,Uzbekistan,0,0,0,0
+2022,November,IEM Rio Major,Uzbekistan,0,0,0,0
+2023,May,BLAST.tv Paris Major,Uzbekistan,0,0,0,0
+2024,March,PGL CS2 Major Copenhagen,Uzbekistan,0,0,0,0
+2024,December,Perfect World Shanghai Major,Uzbekistan,0,0,0,0
+2025,June,BLAST.tv Austin Major,Uzbekistan,0,0,0,0
+2013,November,DreamHack Winter,Czechia,0,0,0,0
+2014,March,EMS One Katowice,Czechia,0,0,0,0
+2014,August,ESL One Cologne,Czechia,0,0,0,0
+2014,November,DreamHack Winter,Czechia,0,0,0,0
+2015,March,ESL One Katowice,Czechia,0,0,0,0
+2015,August,ESL One Cologne,Czechia,0,0,0,0
+2015,November,DreamHack Open Cluj-Napoca,Czechia,0,0,0,0
+2016,April,MLG Columbus,Czechia,0,0,0,0
+2016,July,ESL One Cologne,Czechia,0,0,0,0
+2017,January,ELEAGUE Major,Czechia,0,0,0,0
+2017,July,PGL Major Krakow,Czechia,0,0,0,0
+2018,January,ELEAGUE Major,Czechia,1,0,0,0
+2018,September,FACEIT Major,Czechia,0,0,0,0
+2019,March,IEM Katowice,Czechia,0,0,0,0
+2019,September,StarLadder Major Berlin,Czechia,0,0,0,0
+2021,November,PGL Major Stockholm,Czechia,0,0,0,0
+2022,May,PGL Major Antwerp,Czechia,0,0,0,0
+2022,November,IEM Rio Major,Czechia,0,0,0,0
+2023,May,BLAST.tv Paris Major,Czechia,0,0,0,0
+2024,March,PGL CS2 Major Copenhagen,Czechia,0,0,0,0
+2024,December,Perfect World Shanghai Major,Czechia,0,0,0,0
+2025,June,BLAST.tv Austin Major,Czechia,0,0,0,0
+2013,November,DreamHack Winter,Bulgaria,0,0,0,0
+2014,March,EMS One Katowice,Bulgaria,0,0,0,0
+2014,August,ESL One Cologne,Bulgaria,0,0,0,0
+2014,November,DreamHack Winter,Bulgaria,0,0,0,0
+2015,March,ESL One Katowice,Bulgaria,0,0,0,0
+2015,August,ESL One Cologne,Bulgaria,0,0,0,0
+2015,November,DreamHack Open Cluj-Napoca,Bulgaria,0,0,0,0
+2016,April,MLG Columbus,Bulgaria,0,0,0,0
+2016,July,ESL One Cologne,Bulgaria,0,0,0,0
+2017,January,ELEAGUE Major,Bulgaria,0,0,0,0
+2017,July,PGL Major Krakow,Bulgaria,0,0,0,0
+2018,January,ELEAGUE Major,Bulgaria,0,0,0,0
+2018,September,FACEIT Major,Bulgaria,0,0,0,0
+2019,March,IEM Katowice,Bulgaria,0,0,0,0
+2019,September,StarLadder Major Berlin,Bulgaria,1,1,0,0
+2021,November,PGL Major Stockholm,Bulgaria,0,0,0,0
+2022,May,PGL Major Antwerp,Bulgaria,0,0,0,0
+2022,November,IEM Rio Major,Bulgaria,0,0,0,0
+2023,May,BLAST.tv Paris Major,Bulgaria,0,0,0,0
+2024,March,PGL CS2 Major Copenhagen,Bulgaria,0,0,0,0
+2024,December,Perfect World Shanghai Major,Bulgaria,0,0,0,0
+2025,June,BLAST.tv Austin Major,Bulgaria,0,0,0,0
+2013,November,DreamHack Winter,Jordan,0,0,0,0
+2014,March,EMS One Katowice,Jordan,0,0,0,0
+2014,August,ESL One Cologne,Jordan,0,0,0,0
+2014,November,DreamHack Winter,Jordan,0,0,0,0
+2015,March,ESL One Katowice,Jordan,0,0,0,0
+2015,August,ESL One Cologne,Jordan,0,0,0,0
+2015,November,DreamHack Open Cluj-Napoca,Jordan,0,0,0,0
+2016,April,MLG Columbus,Jordan,0,0,0,0
+2016,July,ESL One Cologne,Jordan,0,0,0,0
+2017,January,ELEAGUE Major,Jordan,0,0,0,0
+2017,July,PGL Major Krakow,Jordan,0,0,0,0
+2018,January,ELEAGUE Major,Jordan,0,0,0,0
+2018,September,FACEIT Major,Jordan,1,0,0,0
+2019,March,IEM Katowice,Jordan,0,0,0,0
+2019,September,StarLadder Major Berlin,Jordan,0,0,0,0
+2021,November,PGL Major Stockholm,Jordan,0,0,0,0
+2022,May,PGL Major Antwerp,Jordan,0,0,0,0
+2022,November,IEM Rio Major,Jordan,0,0,0,0
+2023,May,BLAST.tv Paris Major,Jordan,1,0,0,0
+2024,March,PGL CS2 Major Copenhagen,Jordan,0,0,0,0
+2024,December,Perfect World Shanghai Major,Jordan,0,0,0,0
+2025,June,BLAST.tv Austin Major,Jordan,0,0,0,0
+2013,November,DreamHack Winter,Holland,0,0,0,0
+2014,March,EMS One Katowice,Holland,0,0,0,0
+2014,August,ESL One Cologne,Holland,0,0,0,0
+2014,November,DreamHack Winter,Holland,0,0,0,0
+2015,March,ESL One Katowice,Holland,0,0,0,0
+2015,August,ESL One Cologne,Holland,0,0,0,0
+2015,November,DreamHack Open Cluj-Napoca,Holland,0,0,0,0
+2016,April,MLG Columbus,Holland,0,0,0,0
+2016,July,ESL One Cologne,Holland,0,0,0,0
+2017,January,ELEAGUE Major,Holland,0,0,0,0
+2017,July,PGL Major Krakow,Holland,0,0,0,0
+2018,January,ELEAGUE Major,Holland,1,0,0,0
+2018,September,FACEIT Major,Holland,0,0,0,0
+2019,March,IEM Katowice,Holland,0,0,0,0
+2019,September,StarLadder Major Berlin,Holland,0,0,0,0
+2021,November,PGL Major Stockholm,Holland,0,0,0,0
+2022,May,PGL Major Antwerp,Holland,0,0,0,0
+2022,November,IEM Rio Major,Holland,1,0,0,0
+2023,May,BLAST.tv Paris Major,Holland,1,0,0,0
+2024,March,PGL CS2 Major Copenhagen,Holland,0,0,0,0
+2024,December,Perfect World Shanghai Major,Holland,0,0,0,0
+2025,June,BLAST.tv Austin Major,Holland,0,0,0,0
+2013,November,DreamHack Winter,Belgium,2,2,0,0
+2014,March,EMS One Katowice,Belgium,0,0,0,0
+2014,August,ESL One Cologne,Belgium,0,0,0,0
+2014,November,DreamHack Winter,Belgium,0,0,0,0
+2015,March,ESL One Katowice,Belgium,0,0,0,0
+2015,August,ESL One Cologne,Belgium,1,0,0,0
+2015,November,DreamHack Open Cluj-Napoca,Belgium,0,0,0,0
+2016,April,MLG Columbus,Belgium,0,0,0,0
+2016,July,ESL One Cologne,Belgium,0,0,0,0
+2017,January,ELEAGUE Major,Belgium,0,0,0,0
+2017,July,PGL Major Krakow,Belgium,0,0,0,0
+2018,January,ELEAGUE Major,Belgium,0,0,0,0
+2018,September,FACEIT Major,Belgium,0,0,0,0
+2019,March,IEM Katowice,Belgium,0,0,0,0
+2019,September,StarLadder Major Berlin,Belgium,0,0,0,0
+2021,November,PGL Major Stockholm,Belgium,0,0,0,0
+2022,May,PGL Major Antwerp,Belgium,0,0,0,0
+2022,November,IEM Rio Major,Belgium,0,0,0,0
+2023,May,BLAST.tv Paris Major,Belgium,1,1,1,0
+2024,March,PGL CS2 Major Copenhagen,Belgium,0,0,0,0
+2024,December,Perfect World Shanghai Major,Belgium,0,0,0,0
+2025,June,BLAST.tv Austin Major,Belgium,0,0,0,0
+2013,November,DreamHack Winter,Bosnia,0,0,0,0
+2014,March,EMS One Katowice,Bosnia,0,0,0,0
+2014,August,ESL One Cologne,Bosnia,0,0,0,0
+2014,November,DreamHack Winter,Bosnia,0,0,0,0
+2015,March,ESL One Katowice,Bosnia,0,0,0,0
+2015,August,ESL One Cologne,Bosnia,0,0,0,0
+2015,November,DreamHack Open Cluj-Napoca,Bosnia,0,0,0,0
+2016,April,MLG Columbus,Bosnia,0,0,0,0
+2016,July,ESL One Cologne,Bosnia,0,0,0,0
+2017,January,ELEAGUE Major,Bosnia,0,0,0,0
+2017,July,PGL Major Krakow,Bosnia,0,0,0,0
+2018,January,ELEAGUE Major,Bosnia,1,1,1,0
+2018,September,FACEIT Major,Bosnia,1,0,0,0
+2019,March,IEM Katowice,Bosnia,1,0,0,0
+2019,September,StarLadder Major Berlin,Bosnia,0,0,0,0
+2021,November,PGL Major Stockholm,Bosnia,2,2,2,0
+2022,May,PGL Major Antwerp,Bosnia,0,0,0,0
+2022,November,IEM Rio Major,Bosnia,0,0,0,0
+2023,May,BLAST.tv Paris Major,Bosnia,0,0,0,0
+2024,March,PGL CS2 Major Copenhagen,Bosnia,2,2,0,0
+2024,December,Perfect World Shanghai Major,Bosnia,2,2,0,0
+2025,June,BLAST.tv Austin Major,Bosnia,0,0,0,0
+2013,November,DreamHack Winter,Germany,0,0,0,0
+2014,March,EMS One Katowice,Germany,0,0,0,0
+2014,August,ESL One Cologne,Germany,0,0,0,0
+2014,November,DreamHack Winter,Germany,5,0,0,0
+2015,March,ESL One Katowice,Germany,5,0,0,0
+2015,August,ESL One Cologne,Germany,0,0,0,0
+2015,November,DreamHack Open Cluj-Napoca,Germany,0,0,0,0
+2016,April,MLG Columbus,Germany,0,0,0,0
+2016,July,ESL One Cologne,Germany,0,0,0,0
+2017,January,ELEAGUE Major,Germany,0,0,0,0
+2017,July,PGL Major Krakow,Germany,5,0,0,0
+2018,January,ELEAGUE Major,Germany,0,0,0,0
+2018,September,FACEIT Major,Germany,4,0,0,0
+2019,March,IEM Katowice,Germany,0,0,0,0
+2019,September,StarLadder Major Berlin,Germany,0,0,0,0
+2021,November,PGL Major Stockholm,Germany,0,0,0,0
+2022,May,PGL Major Antwerp,Germany,0,0,0,0
+2022,November,IEM Rio Major,Germany,1,1,0,0
+2023,May,BLAST.tv Paris Major,Germany,0,0,0,0
+2024,March,PGL CS2 Major Copenhagen,Germany,0,0,0,0
+2024,December,Perfect World Shanghai Major,Germany,0,0,0,0
+2025,June,BLAST.tv Austin Major,Germany,0,0,0,0
+
