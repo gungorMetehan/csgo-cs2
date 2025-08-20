@@ -1,0 +1,130 @@
+year;month_finished;tournament;location;country;n_mvp;n_evp;player;team;at_age
+2013;November;DreamHack Winter;Sweden;Sweden;1;0;Jesper 'JW' Wecksell;fnatic;18
+2014;March;EMS One Katowice;Poland;Poland;1;0;Jarosław 'pashaBiceps' Jarząbkows;Virtus.pro;26
+2014;August;ESL One Cologne;Germany;Sweden;1;0;Adam 'friberg' Friberg;Ninjas in Pyjamas;22
+2014;November;DreamHack Winter;Sweden;France;1;0;Vincent 'Happy' Schopenhauer;LDLC;22
+2015;March;ESL One Katowice;Poland;Sweden;1;0;Olof 'olofmeister' Kajbjer;fnatic;23
+2015;August;ESL One Cologne;Germany;Sweden;1;0;Robin 'flusha' Rönnquis;fnatic;22
+2015;November;DreamHack Open Cluj-Napoca;Romania;France;1;0;Kenny 'kennyS' Schrub;Envy;20
+2016;April;MLG Columbus;USA;Brazil;1;0;Marcelo 'coldzera' David;Luminosity;21
+2016;April;MLG Columbus;USA;Brazil;0;1;Lincoln 'fnx' Lau;Luminosity;26
+2016;April;MLG Columbus;USA;Brazil;0;1;Fernando 'fer' Alvarenga;Luminosity;24
+2016;April;MLG Columbus;USA;Brazil;0;1;Gabriel 'FalleN' Toledo;Luminosity;25
+2016;April;MLG Columbus;USA;Russia;0;1;Egor 'flamie' Vasilyev;Natus Vincere;19
+2016;April;MLG Columbus;USA;Ukraine;0;1;Oleksandr 's1mple' Kostyliev;Natus Vincere;18
+2016;July;ESL One Cologne;Germany;Brazil;1;0;Marcelo 'coldzera' David;SK;21
+2016;July;ESL One Cologne;Germany;Brazil;0;1;Lincoln 'fnx' Lau;SK;26
+2016;July;ESL One Cologne;Germany;Brazil;0;1;Gabriel 'FalleN' Toledo;SK;25
+2016;July;ESL One Cologne;Germany;Ukraine;0;1;Oleksandr 's1mple' Kostyliev;Liquid;18
+2017;January;ELEAGUE Major;USA;Denmark;1;0;Markus 'Kjaerbye' Kjærby;Astralis;19
+2017;January;ELEAGUE Major;USA;Denmark;0;1;Nicolai 'device' Reedtz;Astralis;21
+2017;January;ELEAGUE Major;USA;Kazakhstan;0;1;Dauren 'AdreN' Kystaubayev;Gambit;27
+2017;January;ELEAGUE Major;USA;Brazil;0;1;Marcelo 'coldzera' David;SK;22
+2017;January;ELEAGUE Major;USA;Brazil;0;1;Fernando 'fer' Alvarenga;SK;25
+2017;January;ELEAGUE Major;USA;Poland;0;1;Janusz 'Snax' Pogorzelski;Virtus.pro;24
+2017;July;PGL Major Krakow;Poland;Kazakhstan;1;0;Dauren 'AdreN' Kystaubayev;Gambit;27
+2017;July;PGL Major Krakow;Poland;Kazakhstan;0;1;Abay 'HObbit' Khassenov;Gambit;23
+2017;July;PGL Major Krakow;Poland;Brazil;0;1;Marcelo 'coldzera' David;SK;22
+2017;July;PGL Major Krakow;Poland;Brazil;0;1;Ricardo 'boltz' Prass;Immortals;20
+2017;July;PGL Major Krakow;Poland;Denmark;0;1;Peter 'dupreeh' Rasmussen;Astralis;24
+2017;July;PGL Major Krakow;Poland;Denmark;0;1;Nicolai 'device' Reedtz;Astralis;21
+2018;January;ELEAGUE Major;USA;United States;1;0;Tarik 'tarik' Celik;Cloud9;22
+2018;January;ELEAGUE Major;USA;United States;0;1;Timothy 'autimatic' Ta;Cloud9;21
+2018;January;ELEAGUE Major;USA;United States;0;1;William 'RUSH' Wierzba;Cloud9;24
+2018;January;ELEAGUE Major;USA;United States;0;1;Jake 'Stewie2K' Yip;Cloud9;20
+2018;January;ELEAGUE Major;USA;United States;0;1;Tyler 'Skadoodle' Latham;Cloud9;25
+2018;January;ELEAGUE Major;USA;Russia;0;1;Egor 'flamie' Vasilyev;Natus Vincere;21
+2018;January;ELEAGUE Major;USA;Sweden;0;1;Olof 'olofmeister' Kajbjer;FaZe;26
+2018;January;ELEAGUE Major;USA;Sweden;0;1;Freddy 'KRIMZ' Johansson;fnatic;24
+2018;January;ELEAGUE Major;USA;Bosnia;0;1;Nikola 'NiKo' Kova�;FaZe;21
+2018;January;ELEAGUE Major;USA;Slovakia;0;1;Ladislav 'GuardiaN' Kovác;FaZe;27
+2018;September;FACEIT Major;United Kingdom;Denmark;1;0;Nicolai 'device' Reedtz;Astralis;22
+2018;September;FACEIT Major;United Kingdom;Denmark;0;1;Emil 'Magisk' Reif;Astralis;20
+2018;September;FACEIT Major;United Kingdom;Denmark;0;1;Lukas 'gla1ve' Rossander;Astralis;23
+2018;September;FACEIT Major;United Kingdom;Denmark;0;1;Andreas 'Xyp9x' Højslet;Astralis;22
+2018;September;FACEIT Major;United Kingdom;Denmark;0;1;Peter 'dupreeh' Rasmussen;Astralis;25
+2018;September;FACEIT Major;United Kingdom;Russia;0;1;Denis 'electroNic' Sharipov;Natus Vincere;19
+2018;September;FACEIT Major;United Kingdom;Russia;0;1;Egor 'flamie' Vasilyev;Natus Vincere;21
+2018;September;FACEIT Major;United Kingdom;Ukraine;0;1;Oleksandr 's1mple' Kostyliev;Natus Vincere;20
+2018;September;FACEIT Major;United Kingdom;Canada;0;1;Keith 'NAF' Markovic;Liquid;20
+2018;September;FACEIT Major;United Kingdom;Brazil;0;1;Gabriel 'FalleN' Toledo;MIBR;27
+2019;March;IEM Katowice;Poland;Denmark;1;0;Emil 'Magisk' Reif;Astralis;21
+2019;March;IEM Katowice;Poland;Denmark;0;1;Nicolai 'device' Reedtz;Astralis;23
+2019;March;IEM Katowice;Poland;Denmark;0;1;Peter 'dupreeh' Rasmussen;Astralis;26
+2019;March;IEM Katowice;Poland;Denmark;0;1;Andreas 'Xyp9x' Højslet;Astralis;23
+2019;March;IEM Katowice;Poland;Ukraine;0;1;Oleksandr 's1mple' Kostyliev;Natus Vincere;21
+2019;March;IEM Katowice;Poland;Brazil;0;1;Marcelo 'coldzera' David;MIBR;24
+2019;March;IEM Katowice;Poland;Brazil;0;1;Fernando 'fer' Alvarenga;MIBR;27
+2019;March;IEM Katowice;Poland;Russia;0;1;Egor 'flamie' Vasilyev;Natus Vincere;22
+2019;March;IEM Katowice;Poland;Finland;0;1;Sami 'xseveN' Laasanen;ENCE;24
+2019;September;StarLadder Major Berlin;Germany;Denmark;1;0;Nicolai 'device' Reedtz;Astralis;23
+2019;September;StarLadder Major Berlin;Germany;Denmark;0;1;Emil 'Magisk' Reif;Astralis;21
+2019;September;StarLadder Major Berlin;Germany;Denmark;0;1;Andreas 'Xyp9x' Højslet;Astralis;23
+2019;September;StarLadder Major Berlin;Germany;Russia;0;1;Denis 'electroNic' Sharipov;Natus Vincere;20
+2019;September;StarLadder Major Berlin;Germany;Russia;0;1;Dzhami 'Jame' Ali;AVANGAR;20
+2019;September;StarLadder Major Berlin;Germany;United States;0;1;Vincent 'Brehze' Cayonte;NRG;21
+2019;September;StarLadder Major Berlin;Germany;United States;0;1;Jonathan 'ELiGE' Jablonowski;Liquid;22
+2019;September;StarLadder Major Berlin;Germany;France;0;1;Mathieu 'ZywOo' Herbaut;Vitality;18
+2019;September;StarLadder Major Berlin;Germany;Australia;0;1;Justin 'jks' Savage;Renegades;23
+2019;September;StarLadder Major Berlin;Germany;Kazakhstan;0;1;Timur 'buster' Tulepov;AVANGAR;19
+2021;November;PGL Major Stockholm;Sweden;Ukraine;1;0;Oleksandr 's1mple' Kostyliev;Natus Vincere;23
+2021;November;PGL Major Stockholm;Sweden;Bosnia;0;1;Nikola 'NiKo' Kova�;G2;24
+2021;November;PGL Major Stockholm;Sweden;Bosnia;0;1;Nemanja 'huNter-' Kova�;G2;25
+2021;November;PGL Major Stockholm;Sweden;France;0;1;Mathieu 'ZywOo' Herbaut;Vitality;20
+2021;November;PGL Major Stockholm;Sweden;Russia;0;1;Denis 'electroNic' Sharipov;Natus Vincere;22
+2021;November;PGL Major Stockholm;Sweden;Russia;0;1;Dmitry 'sh1ro' Sokolov;Gambit;20
+2021;November;PGL Major Stockholm;Sweden;Ukraine;0;1;Valeriy 'b1t' Vakhovskiy;Natus Vincere;18
+2021;November;PGL Major Stockholm;Sweden;Denmark;0;1;Martin 'stavn' Lund;HEROIC;19
+2021;November;PGL Major Stockholm;Sweden;Kazakhstan;0;1;Abay 'HObbit' Khassenov;Gambit;27
+2022;May;PGL Major Antwerp;Belgium;Norway;1;0;Håvard 'rain' Nygaar;FaZe;27
+2022;May;PGL Major Antwerp;Belgium;Ukraine;0;1;Valeriy 'b1t' Vakhovskiy;Natus Vincere;19
+2022;May;PGL Major Antwerp;Belgium;Ukraine;0;1;Oleksandr 's1mple' Kostyliev;Natus Vincere;24
+2022;May;PGL Major Antwerp;Belgium;Israel;0;1;Lotan 'Spinx' Giladi;ENCE;21
+2022;May;PGL Major Antwerp;Belgium;Denmark;0;1;Martin 'stavn' Lund;HEROIC;20
+2022;May;PGL Major Antwerp;Belgium;Poland;0;1;Paweł 'dycha' Dych;ENCE;25
+2022;May;PGL Major Antwerp;Belgium;Latvia;0;1;Helvijs 'broky' Saukants;FaZe;21
+2022;May;PGL Major Antwerp;Belgium;Estonia;0;1;Robin 'ropz' Kool;FaZe;22
+2022;May;PGL Major Antwerp;Belgium;Sweden;0;1;Ludvig 'Brollan' Brolin;Ninjas in Pyjamas;20
+2022;May;PGL Major Antwerp;Belgium;Russia;0;1;Denis 'electroNic' Sharipov;Natus Vincere;23
+2022;November;IEM Rio Major;Brazil;Russia;1;0;Dzhami 'Jame' Ali;Outsiders;23
+2022;November;IEM Rio Major;Brazil;Russia;0;1;Dmitry 'sh1ro' Sokolov;Cloud9;21
+2022;November;IEM Rio Major;Brazil;Russia;0;1;Evgenii 'FL1T' Lebedev;Outsiders;21
+2022;November;IEM Rio Major;Brazil;Russia;0;1;Petr 'fame' Bolyshev;Outsiders;19
+2022;November;IEM Rio Major;Brazil;Brazil;0;1;Kaike 'KSCERATO' Cerato;FURIA;22
+2022;November;IEM Rio Major;Brazil;Brazil;0;1;Yuri 'yuurih' Santos;FURIA;22
+2022;November;IEM Rio Major;Brazil;Ukraine;0;1;Oleksandr 's1mple' Kostyliev;Natus Vincere;24
+2022;November;IEM Rio Major;Brazil;Ukraine;0;1;Ihor 'w0nderful' Zhdanov;Spirit;17
+2022;November;IEM Rio Major;Brazil;Slovakia;0;1;David 'frozen' Čerňans;MOUZ;20
+2022;November;IEM Rio Major;Brazil;Denmark;0;1;Casper 'cadiaN' Mølle;HEROIC;27
+2022;November;IEM Rio Major;Brazil;Denmark;0;1;Martin 'stavn' Lund;HEROIC;20
+2023;May;BLAST.tv Paris Major;France;France;1;0;Mathieu 'ZywOo' Herbaut;Vitality;22
+2023;May;BLAST.tv Paris Major;France;Romania;0;1;Mihai 'iM' Ivan;GamerLegion;24
+2023;May;BLAST.tv Paris Major;France;Israel;0;1;Lotan 'Spinx' Giladi;Vitality;22
+2023;May;BLAST.tv Paris Major;France;Canada;0;1;Keith 'NAF' Markovic;Liquid;25
+2023;May;BLAST.tv Paris Major;France;Denmark;0;1;Casper 'cadiaN' Mølle;HEROIC;28
+2023;May;BLAST.tv Paris Major;France;Denmark;0;1;Frederik 'acoR' Gyldstrand;GamerLegion;26
+2023;May;BLAST.tv Paris Major;France;Denmark;0;1;Martin 'stavn' Lund;HEROIC;21
+2023;May;BLAST.tv Paris Major;France;Denmark;0;1;Emil 'Magisk' Reif;Vitality;25
+2023;May;BLAST.tv Paris Major;France;Latvia;0;1;Helvijs 'broky' Saukants;FaZe;22
+2023;May;BLAST.tv Paris Major;France;Estonia;0;1;Robin 'ropz' Kool;FaZe;23
+2024;March;PGL CS2 Major Copenhagen;Denmark;Lithuania;1;0;Justinas 'jL' Lekavicius;Natus Vincere;24
+2024;March;PGL CS2 Major Copenhagen;Denmark;Russia;0;1;Ilya 'm0NESY' Osipov;G2;19
+2024;March;PGL CS2 Major Copenhagen;Denmark;Russia;0;1;Danil 'donk' Kryshkovets;Spirit;17
+2024;March;PGL CS2 Major Copenhagen;Denmark;Turkiye;0;1;Ismailcan 'XANTARES' Dörtkarde;Eternal Fire;29
+2024;March;PGL CS2 Major Copenhagen;Denmark;Latvia;0;1;Helvijs 'broky' Saukants;FaZe;23
+2024;March;PGL CS2 Major Copenhagen;Denmark;Slovakia;0;1;David 'frozen' Čerňans;FaZe;22
+2024;March;PGL CS2 Major Copenhagen;Denmark;Israel;0;1;Shahar 'flameZ' Shushan;Vitality;21
+2024;March;PGL CS2 Major Copenhagen;Denmark;Ukraine;0;1;Ihor 'w0nderful' Zhdanov;Natus Vincere;19
+2024;December;Perfect World Shanghai Major;China;Russia;1;0;Danil 'donk' Kryshkovets;Spirit;17
+2024;December;Perfect World Shanghai Major;China;Russia;0;1;Dmitry 'sh1ro' Sokolov;Spirit;23
+2024;December;Perfect World Shanghai Major;China;Russia;0;1;Boris 'magixx' Vorobiev;Spirit;21
+2024;December;Perfect World Shanghai Major;China;France;0;1;Mathieu 'ZywOo' Herbaut;Vitality;23
+2024;December;Perfect World Shanghai Major;China;Bosnia;0;1;Nikola 'NiKo' Kova�;G2;27
+2024;December;Perfect World Shanghai Major;China;Estonia;0;1;Robin 'ropz' Kool;FaZe;24
+2025;June;BLAST.tv Austin Major;USA;France;1;0;Mathieu 'ZywOo' Herbaut;Vitality;24
+2025;June;BLAST.tv Austin Major;USA;Russia;0;1;Danil 'donk' Kryshkovets;Spirit;18
+2025;June;BLAST.tv Austin Major;USA;Mongolia;0;1;Azbayar 'Senzu' Munkhbold;The MongolZ;19
+2025;June;BLAST.tv Austin Major;USA;Mongolia;0;1;Usukhbayar '910' Banzragch;The MongolZ;23
+2025;June;BLAST.tv Austin Major;USA;Estonia;0;1;Robin 'ropz' Kool;Vitality;25
+2025;June;BLAST.tv Austin Major;USA;Brazil;0;1;Lucas 'nqz' Soares;paiN;20
+2025;June;BLAST.tv Austin Major;USA;United Kingdom;0;1;William 'mezii' Merriman;Vitality;26
