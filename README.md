@@ -11,3 +11,7 @@
 ![4_major_champions](https://github.com/user-attachments/assets/2e43d20f-c86b-4e57-b59f-7c54dacd5c45)
 
 ## MVPs, EVPs, and Data – A Look at Major History
+
+![major_mvp](https://github.com/user-attachments/assets/6f5e15fb-b166-4144-b066-a5eca4e458ff)
+
+![major_evp](https://github.com/user-attachments/assets/0d7f772c-4243-48e6-a9de-feaf85961b19)
